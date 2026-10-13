@@ -1,0 +1,345 @@
+Incident_ID,Event_Type,Source_Type,Date_Time,Location,Confidence_Score,Summary
+INC-2026-003000,No activity detected,Video,00:00:01,CCTV - Walk1,0.0,Motion detected in frame. No objects identified above confidence threshold.
+INC-2026-003001,Possible person down / collapse,Video,00:00:01,CCTV - Walk1,0.36,"Event detected: Possible person down / collapse. Objects: 1 bird, 1 person. Confidence: 0.36."
+INC-2026-003002,Possible altercation / two-person interaction,Video,00:00:02,CCTV - Walk1,0.58,Event detected: Possible altercation / two-person interaction. Objects: 2 person. Confidence: 0.58.
+INC-2026-003003,Possible altercation / two-person interaction,Video,00:00:02,CCTV - Walk1,0.6,Event detected: Possible altercation / two-person interaction. Objects: 2 person. Confidence: 0.6.
+INC-2026-003004,Possible person down / collapse,Video,00:00:03,CCTV - Walk1,0.81,Event detected: Possible person down / collapse. Objects: 1 person. Confidence: 0.81.
+INC-2026-003005,Possible altercation / two-person interaction,Video,00:00:03,CCTV - Walk1,0.67,Event detected: Possible altercation / two-person interaction. Objects: 2 person. Confidence: 0.67.
+INC-2026-003006,Person walking / present,Video,00:00:04,CCTV - Walk1,0.67,"Event detected: Person walking / present. Objects: 1 bird, 1 person. Confidence: 0.67."
+INC-2026-003007,No activity detected,Video,00:00:04,CCTV - Walk1,0.43,Event detected: No activity detected. Objects: 1 bird. Confidence: 0.43.
+INC-2026-003008,Possible altercation / two-person interaction,Video,00:00:05,CCTV - Walk1,0.66,Event detected: Possible altercation / two-person interaction. Objects: 2 person. Confidence: 0.66.
+INC-2026-003009,Person walking / present,Video,00:00:05,CCTV - Walk1,0.29,"Event detected: Person walking / present. Objects: 1 bird, 1 person. Confidence: 0.29."
+INC-2026-003010,No activity detected,Video,00:00:06,CCTV - Walk1,0.0,Motion detected in frame. No objects identified above confidence threshold.
+INC-2026-003011,No activity detected,Video,00:00:06,CCTV - Walk1,0.0,Motion detected in frame. No objects identified above confidence threshold.
+INC-2026-003012,No activity detected,Video,00:00:07,CCTV - Walk1,0.0,Motion detected in frame. No objects identified above confidence threshold.
+INC-2026-003013,No activity detected,Video,00:00:10,CCTV - Walk1,0.0,Motion detected in frame. No objects identified above confidence threshold.
+INC-2026-003014,No activity detected,Video,00:00:10,CCTV - Walk1,0.0,Motion detected in frame. No objects identified above confidence threshold.
+INC-2026-003015,No activity detected,Video,00:00:11,CCTV - Walk1,0.0,Motion detected in frame. No objects identified above confidence threshold.
+INC-2026-003016,Possible person down / collapse,Video,00:00:11,CCTV - Walk1,0.33,Event detected: Possible person down / collapse. Objects: 1 person. Confidence: 0.33.
+INC-2026-003017,No activity detected,Video,00:00:12,CCTV - Walk1,0.0,Motion detected in frame. No objects identified above confidence threshold.
+INC-2026-003018,Person walking / present,Video,00:00:12,CCTV - Walk1,0.42,"Event detected: Person walking / present. Objects: 1 bird, 1 person. Confidence: 0.42."
+INC-2026-003019,No activity detected,Video,00:00:12,CCTV - Walk1,0.0,Motion detected in frame. No objects identified above confidence threshold.
+INC-2026-003020,Possible altercation / two-person interaction,Video,00:00:13,CCTV - Walk1,0.59,Event detected: Possible altercation / two-person interaction. Objects: 2 person. Confidence: 0.59.
+INC-2026-003021,Person walking / present,Video,00:00:13,CCTV - Walk1,0.39,Event detected: Person walking / present. Objects: 1 person. Confidence: 0.39.
+INC-2026-003022,No activity detected,Video,00:00:14,CCTV - Walk1,0.0,Motion detected in frame. No objects identified above confidence threshold.
+INC-2026-003023,No activity detected,Video,00:00:16,CCTV - Walk1,0.0,Motion detected in frame. No objects identified above confidence threshold.
+INC-2026-003024,No activity detected,Video,00:00:16,CCTV - Walk1,0.0,Motion detected in frame. No objects identified above confidence threshold.
+INC-2026-003025,No activity detected,Video,00:00:17,CCTV - Walk1,0.0,Motion detected in frame. No objects identified above confidence threshold.
+INC-2026-003026,No activity detected,Video,00:00:18,CCTV - Walk1,0.0,Motion detected in frame. No objects identified above confidence threshold.
+INC-2026-003027,No activity detected,Video,00:00:18,CCTV - Walk1,0.0,Motion detected in frame. No objects identified above confidence threshold.
+INC-2026-003028,No activity detected,Video,00:00:00,CCTV - Rest_FallOnFloor,0.0,Motion detected in frame. No objects identified above confidence threshold.
+INC-2026-003029,No activity detected,Video,00:00:00,CCTV - Rest_FallOnFloor,0.29,Event detected: No activity detected. Objects: 1 bird. Confidence: 0.29.
+INC-2026-003030,Person walking / present,Video,00:00:01,CCTV - Rest_FallOnFloor,0.36,"Event detected: Person walking / present. Objects: 1 bird, 1 person. Confidence: 0.36."
+INC-2026-003031,No activity detected,Video,00:00:02,CCTV - Rest_FallOnFloor,0.56,Event detected: No activity detected. Objects: 1 bird. Confidence: 0.56.
+INC-2026-003032,No activity detected,Video,00:00:02,CCTV - Rest_FallOnFloor,0.52,Event detected: No activity detected. Objects: 1 bird. Confidence: 0.52.
+INC-2026-003033,Crowd gathering,Video,00:00:03,CCTV - Rest_FallOnFloor,0.43,Event detected: Crowd gathering. Objects: 3 person. Confidence: 0.43.
+INC-2026-003034,No activity detected,Video,00:00:03,CCTV - Rest_FallOnFloor,0.0,Motion detected in frame. No objects identified above confidence threshold.
+INC-2026-003035,No activity detected,Video,00:00:04,CCTV - Rest_FallOnFloor,0.0,Motion detected in frame. No objects identified above confidence threshold.
+INC-2026-003036,Possible altercation / two-person interaction,Video,00:00:07,CCTV - Rest_FallOnFloor,0.31,Event detected: Possible altercation / two-person interaction. Objects: 2 person. Confidence: 0.31.
+INC-2026-003037,Person walking / present,Video,00:00:08,CCTV - Rest_FallOnFloor,0.35,Event detected: Person walking / present. Objects: 1 person. Confidence: 0.35.
+INC-2026-003038,No activity detected,Video,00:00:08,CCTV - Rest_FallOnFloor,0.0,Motion detected in frame. No objects identified above confidence threshold.
+INC-2026-003039,No activity detected,Video,00:00:09,CCTV - Rest_FallOnFloor,0.0,Motion detected in frame. No objects identified above confidence threshold.
+INC-2026-003040,No activity detected,Video,00:00:09,CCTV - Rest_FallOnFloor,0.0,Motion detected in frame. No objects identified above confidence threshold.
+INC-2026-003041,Person walking / present,Video,00:00:10,CCTV - Rest_FallOnFloor,0.26,Event detected: Person walking / present. Objects: 1 person. Confidence: 0.26.
+INC-2026-003042,No activity detected,Video,00:00:10,CCTV - Rest_FallOnFloor,0.0,Motion detected in frame. No objects identified above confidence threshold.
+INC-2026-003043,No activity detected,Video,00:00:11,CCTV - Rest_FallOnFloor,0.35,Event detected: No activity detected. Objects: 1 teddy bear. Confidence: 0.35.
+INC-2026-003044,Person walking / present,Video,00:00:11,CCTV - Rest_FallOnFloor,0.29,Event detected: Person walking / present. Objects: 1 person. Confidence: 0.29.
+INC-2026-003045,No activity detected,Video,00:00:24,CCTV - Rest_FallOnFloor,0.0,Motion detected in frame. No objects identified above confidence threshold.
+INC-2026-003046,Person walking / present,Video,00:00:25,CCTV - Rest_FallOnFloor,0.34,Event detected: Person walking / present. Objects: 1 person. Confidence: 0.34.
+INC-2026-003047,Person walking / present,Video,00:00:25,CCTV - Rest_FallOnFloor,0.43,"Event detected: Person walking / present. Objects: 1 bird, 1 person. Confidence: 0.43."
+INC-2026-003048,Person walking / present,Video,00:00:26,CCTV - Rest_FallOnFloor,0.26,Event detected: Person walking / present. Objects: 1 person. Confidence: 0.26.
+INC-2026-003049,Person walking / present,Video,00:00:27,CCTV - Rest_FallOnFloor,0.47,Event detected: Person walking / present. Objects: 1 person. Confidence: 0.47.
+INC-2026-003050,Person walking / present,Video,00:00:27,CCTV - Rest_FallOnFloor,0.42,Event detected: Person walking / present. Objects: 1 person. Confidence: 0.42.
+INC-2026-003051,Person walking / present,Video,00:00:37,CCTV - Rest_FallOnFloor,0.36,Event detected: Person walking / present. Objects: 1 person. Confidence: 0.36.
+INC-2026-003052,Possible altercation / two-person interaction,Video,00:00:38,CCTV - Rest_FallOnFloor,0.5,Event detected: Possible altercation / two-person interaction. Objects: 2 person. Confidence: 0.5.
+INC-2026-003053,Person walking / present,Video,00:00:38,CCTV - Rest_FallOnFloor,0.29,Event detected: Person walking / present. Objects: 1 person. Confidence: 0.29.
+INC-2026-003054,Person walking / present,Video,00:00:39,CCTV - Rest_FallOnFloor,0.28,Event detected: Person walking / present. Objects: 1 person. Confidence: 0.28.
+INC-2026-003055,Person walking / present,Video,00:00:39,CCTV - Rest_FallOnFloor,0.27,Event detected: Person walking / present. Objects: 1 person. Confidence: 0.27.
+INC-2026-003056,No activity detected,Video,00:00:00,CCTV - Fight_OneManDown,0.27,Event detected: No activity detected. Objects: 1 bird. Confidence: 0.27.
+INC-2026-003057,No activity detected,Video,00:00:00,CCTV - Fight_OneManDown,0.0,Motion detected in frame. No objects identified above confidence threshold.
+INC-2026-003058,No activity detected,Video,00:00:01,CCTV - Fight_OneManDown,0.0,Motion detected in frame. No objects identified above confidence threshold.
+INC-2026-003059,Person walking / present,Video,00:00:01,CCTV - Fight_OneManDown,0.38,Event detected: Person walking / present. Objects: 1 person. Confidence: 0.38.
+INC-2026-003060,No activity detected,Video,00:00:02,CCTV - Fight_OneManDown,0.0,Motion detected in frame. No objects identified above confidence threshold.
+INC-2026-003061,Possible altercation / two-person interaction,Video,00:00:03,CCTV - Fight_OneManDown,0.61,Event detected: Possible altercation / two-person interaction. Objects: 2 person. Confidence: 0.61.
+INC-2026-003062,Possible altercation / two-person interaction,Video,00:00:03,CCTV - Fight_OneManDown,0.41,Event detected: Possible altercation / two-person interaction. Objects: 2 person. Confidence: 0.41.
+INC-2026-003063,Person walking / present,Video,00:00:04,CCTV - Fight_OneManDown,0.3,Event detected: Person walking / present. Objects: 1 person. Confidence: 0.3.
+INC-2026-003064,No activity detected,Video,00:00:04,CCTV - Fight_OneManDown,0.0,Motion detected in frame. No objects identified above confidence threshold.
+INC-2026-003065,No activity detected,Video,00:00:05,CCTV - Fight_OneManDown,0.0,Motion detected in frame. No objects identified above confidence threshold.
+INC-2026-003066,No activity detected,Video,00:00:05,CCTV - Fight_OneManDown,0.0,Motion detected in frame. No objects identified above confidence threshold.
+INC-2026-003067,Person walking / present,Video,00:00:06,CCTV - Fight_OneManDown,0.28,Event detected: Person walking / present. Objects: 1 person. Confidence: 0.28.
+INC-2026-003068,No activity detected,Video,00:00:06,CCTV - Fight_OneManDown,0.0,Motion detected in frame. No objects identified above confidence threshold.
+INC-2026-003069,No activity detected,Video,00:00:07,CCTV - Fight_OneManDown,0.0,Motion detected in frame. No objects identified above confidence threshold.
+INC-2026-003070,Person walking / present,Video,00:00:07,CCTV - Fight_OneManDown,0.37,Event detected: Person walking / present. Objects: 1 person. Confidence: 0.37.
+INC-2026-003071,No activity detected,Video,00:00:08,CCTV - Fight_OneManDown,0.0,Motion detected in frame. No objects identified above confidence threshold.
+INC-2026-003072,Possible altercation / two-person interaction,Video,00:00:08,CCTV - Fight_OneManDown,0.38,Event detected: Possible altercation / two-person interaction. Objects: 2 person. Confidence: 0.38.
+INC-2026-003073,Possible altercation / two-person interaction,Video,00:00:09,CCTV - Fight_OneManDown,0.36,Event detected: Possible altercation / two-person interaction. Objects: 2 person. Confidence: 0.36.
+INC-2026-003074,No activity detected,Video,00:00:09,CCTV - Fight_OneManDown,0.0,Motion detected in frame. No objects identified above confidence threshold.
+INC-2026-003075,Possible altercation / two-person interaction,Video,00:00:10,CCTV - Fight_OneManDown,0.5,Event detected: Possible altercation / two-person interaction. Objects: 2 person. Confidence: 0.5.
+INC-2026-003076,Crowd gathering,Video,00:00:10,CCTV - Fight_OneManDown,0.43,Event detected: Crowd gathering. Objects: 3 person. Confidence: 0.43.
+INC-2026-003077,Crowd gathering,Video,00:00:11,CCTV - Fight_OneManDown,0.38,Event detected: Crowd gathering. Objects: 4 person. Confidence: 0.38.
+INC-2026-003078,Possible altercation / two-person interaction,Video,00:00:11,CCTV - Fight_OneManDown,0.43,Event detected: Possible altercation / two-person interaction. Objects: 2 person. Confidence: 0.43.
+INC-2026-003079,Crowd gathering,Video,00:00:12,CCTV - Fight_OneManDown,0.76,Event detected: Crowd gathering. Objects: 3 person. Confidence: 0.76.
+INC-2026-003080,No activity detected,Video,00:00:12,CCTV - Fight_OneManDown,0.0,Motion detected in frame. No objects identified above confidence threshold.
+INC-2026-003081,Crowd gathering,Video,00:00:12,CCTV - Fight_OneManDown,0.8,Event detected: Crowd gathering. Objects: 3 person. Confidence: 0.8.
+INC-2026-003082,Crowd gathering,Video,00:00:13,CCTV - Fight_OneManDown,0.46,Event detected: Crowd gathering. Objects: 3 person. Confidence: 0.46.
+INC-2026-003083,Possible altercation / two-person interaction,Video,00:00:13,CCTV - Fight_OneManDown,0.45,Event detected: Possible altercation / two-person interaction. Objects: 2 person. Confidence: 0.45.
+INC-2026-003084,Person walking / present,Video,00:00:14,CCTV - Fight_OneManDown,0.45,Event detected: Person walking / present. Objects: 1 person. Confidence: 0.45.
+INC-2026-003085,Crowd gathering,Video,00:00:14,CCTV - Fight_OneManDown,0.46,Event detected: Crowd gathering. Objects: 3 person. Confidence: 0.46.
+INC-2026-003086,Possible altercation / two-person interaction,Video,00:00:15,CCTV - Fight_OneManDown,0.37,Event detected: Possible altercation / two-person interaction. Objects: 2 person. Confidence: 0.37.
+INC-2026-003087,Possible altercation / two-person interaction,Video,00:00:18,CCTV - Fight_OneManDown,0.75,Event detected: Possible altercation / two-person interaction. Objects: 2 person. Confidence: 0.75.
+INC-2026-003088,Person walking / present,Video,00:00:19,CCTV - Fight_OneManDown,0.81,Event detected: Person walking / present. Objects: 1 person. Confidence: 0.81.
+INC-2026-003089,Person walking / present,Video,00:00:19,CCTV - Fight_OneManDown,0.37,Event detected: Person walking / present. Objects: 1 person. Confidence: 0.37.
+INC-2026-003090,Person walking / present,Video,00:00:20,CCTV - Fight_OneManDown,0.41,Event detected: Person walking / present. Objects: 1 person. Confidence: 0.41.
+INC-2026-003091,Person walking / present,Video,00:00:20,CCTV - Fight_OneManDown,0.29,Event detected: Person walking / present. Objects: 1 person. Confidence: 0.29.
+INC-2026-003092,Person walking / present,Video,00:00:21,CCTV - Fight_OneManDown,0.31,Event detected: Person walking / present. Objects: 1 person. Confidence: 0.31.
+INC-2026-003093,Person walking / present,Video,00:00:21,CCTV - Fight_OneManDown,0.4,"Event detected: Person walking / present. Objects: 1 bird, 1 person. Confidence: 0.4."
+INC-2026-003094,Possible altercation / two-person interaction,Video,00:00:22,CCTV - Fight_OneManDown,0.42,Event detected: Possible altercation / two-person interaction. Objects: 2 person. Confidence: 0.42.
+INC-2026-003095,No activity detected,Video,00:00:22,CCTV - Fight_OneManDown,0.0,Motion detected in frame. No objects identified above confidence threshold.
+INC-2026-003096,Person walking / present,Video,00:00:23,CCTV - Fight_OneManDown,0.32,Event detected: Person walking / present. Objects: 1 person. Confidence: 0.32.
+INC-2026-003097,Person walking / present,Video,00:00:23,CCTV - Fight_OneManDown,0.39,"Event detected: Person walking / present. Objects: 1 bird, 1 person. Confidence: 0.39."
+INC-2026-003098,Possible altercation / two-person interaction,Video,00:00:24,CCTV - Fight_OneManDown,0.66,Event detected: Possible altercation / two-person interaction. Objects: 2 person. Confidence: 0.66.
+INC-2026-003099,Crowd gathering,Video,00:00:24,CCTV - Fight_OneManDown,0.52,Event detected: Crowd gathering. Objects: 3 person. Confidence: 0.52.
+INC-2026-003100,Possible altercation / two-person interaction,Video,00:00:24,CCTV - Fight_OneManDown,0.59,Event detected: Possible altercation / two-person interaction. Objects: 2 person. Confidence: 0.59.
+INC-2026-003101,No activity detected,Video,00:00:25,CCTV - Fight_OneManDown,0.0,Motion detected in frame. No objects identified above confidence threshold.
+INC-2026-003102,No activity detected,Video,00:00:25,CCTV - Fight_OneManDown,0.0,Motion detected in frame. No objects identified above confidence threshold.
+INC-2026-003103,No activity detected,Video,00:00:26,CCTV - Fight_OneManDown,0.0,Motion detected in frame. No objects identified above confidence threshold.
+INC-2026-003104,Person walking / present,Video,00:00:26,CCTV - Fight_OneManDown,0.29,Event detected: Person walking / present. Objects: 1 person. Confidence: 0.29.
+INC-2026-003105,No activity detected,Video,00:00:27,CCTV - Fight_OneManDown,0.0,Motion detected in frame. No objects identified above confidence threshold.
+INC-2026-003106,Person walking / present,Video,00:00:27,CCTV - Fight_OneManDown,0.25,Event detected: Person walking / present. Objects: 1 person. Confidence: 0.25.
+INC-2026-003107,No activity detected,Video,00:00:28,CCTV - Fight_OneManDown,0.0,Motion detected in frame. No objects identified above confidence threshold.
+INC-2026-003108,No activity detected,Video,00:00:28,CCTV - Fight_OneManDown,0.0,Motion detected in frame. No objects identified above confidence threshold.
+INC-2026-003109,Person walking / present,Video,00:00:29,CCTV - Fight_OneManDown,0.26,Event detected: Person walking / present. Objects: 1 person. Confidence: 0.26.
+INC-2026-003110,No activity detected,Video,00:00:29,CCTV - Fight_OneManDown,0.27,Event detected: No activity detected. Objects: 1 skateboard. Confidence: 0.27.
+INC-2026-003111,Possible altercation / two-person interaction,Video,00:00:30,CCTV - Fight_OneManDown,0.46,Event detected: Possible altercation / two-person interaction. Objects: 2 person. Confidence: 0.46.
+INC-2026-003112,No activity detected,Video,00:00:30,CCTV - Fight_OneManDown,0.0,Motion detected in frame. No objects identified above confidence threshold.
+INC-2026-003113,No activity detected,Video,00:00:31,CCTV - Fight_OneManDown,0.0,Motion detected in frame. No objects identified above confidence threshold.
+INC-2026-003114,Person walking / present,Video,00:00:31,CCTV - Fight_OneManDown,0.29,Event detected: Person walking / present. Objects: 1 person. Confidence: 0.29.
+INC-2026-003115,No activity detected,Video,00:00:05,CCTV - Meet_Crowd,0.0,Motion detected in frame. No objects identified above confidence threshold.
+INC-2026-003116,No activity detected,Video,00:00:05,CCTV - Meet_Crowd,0.0,Motion detected in frame. No objects identified above confidence threshold.
+INC-2026-003117,No activity detected,Video,00:00:06,CCTV - Meet_Crowd,0.0,Motion detected in frame. No objects identified above confidence threshold.
+INC-2026-003118,No activity detected,Video,00:00:06,CCTV - Meet_Crowd,0.0,Motion detected in frame. No objects identified above confidence threshold.
+INC-2026-003119,No activity detected,Video,00:00:07,CCTV - Meet_Crowd,0.0,Motion detected in frame. No objects identified above confidence threshold.
+INC-2026-003120,No activity detected,Video,00:00:07,CCTV - Meet_Crowd,0.0,Motion detected in frame. No objects identified above confidence threshold.
+INC-2026-003121,No activity detected,Video,00:00:08,CCTV - Meet_Crowd,0.0,Motion detected in frame. No objects identified above confidence threshold.
+INC-2026-003122,Person walking / present,Video,00:00:08,CCTV - Meet_Crowd,0.26,Event detected: Person walking / present. Objects: 1 person. Confidence: 0.26.
+INC-2026-003123,No activity detected,Video,00:00:09,CCTV - Meet_Crowd,0.0,Motion detected in frame. No objects identified above confidence threshold.
+INC-2026-003124,Crowd gathering,Video,00:00:09,CCTV - Meet_Crowd,0.62,Event detected: Crowd gathering. Objects: 4 person. Confidence: 0.62.
+INC-2026-003125,Possible altercation / two-person interaction,Video,00:00:10,CCTV - Meet_Crowd,0.45,Event detected: Possible altercation / two-person interaction. Objects: 2 person. Confidence: 0.45.
+INC-2026-003126,No activity detected,Video,00:00:10,CCTV - Meet_Crowd,0.0,Motion detected in frame. No objects identified above confidence threshold.
+INC-2026-003127,No activity detected,Video,00:00:11,CCTV - Meet_Crowd,0.0,Motion detected in frame. No objects identified above confidence threshold.
+INC-2026-003128,No activity detected,Video,00:00:11,CCTV - Meet_Crowd,0.0,Motion detected in frame. No objects identified above confidence threshold.
+INC-2026-003129,Possible altercation / two-person interaction,Video,00:00:12,CCTV - Meet_Crowd,0.3,Event detected: Possible altercation / two-person interaction. Objects: 2 person. Confidence: 0.3.
+INC-2026-003130,Person walking / present,Video,00:00:12,CCTV - Meet_Crowd,0.25,Event detected: Person walking / present. Objects: 1 person. Confidence: 0.25.
+INC-2026-003131,No activity detected,Video,00:00:12,CCTV - Meet_Crowd,0.0,Motion detected in frame. No objects identified above confidence threshold.
+INC-2026-003132,No activity detected,Video,00:00:13,CCTV - Meet_Crowd,0.0,Motion detected in frame. No objects identified above confidence threshold.
+INC-2026-003133,No activity detected,Video,00:00:13,CCTV - Meet_Crowd,0.0,Motion detected in frame. No objects identified above confidence threshold.
+INC-2026-003134,No activity detected,Video,00:00:14,CCTV - Meet_Crowd,0.0,Motion detected in frame. No objects identified above confidence threshold.
+INC-2026-003135,No activity detected,Video,00:00:00,CCTV - LeftBag,0.0,Motion detected in frame. No objects identified above confidence threshold.
+INC-2026-003136,Possible altercation / two-person interaction,Video,00:00:00,CCTV - LeftBag,0.7,Event detected: Possible altercation / two-person interaction. Objects: 2 person. Confidence: 0.7.
+INC-2026-003137,No activity detected,Video,00:00:01,CCTV - LeftBag,0.43,Event detected: No activity detected. Objects: 1 bird. Confidence: 0.43.
+INC-2026-003138,No activity detected,Video,00:00:01,CCTV - LeftBag,0.0,Motion detected in frame. No objects identified above confidence threshold.
+INC-2026-003139,Person walking / present,Video,00:00:02,CCTV - LeftBag,0.55,Event detected: Person walking / present. Objects: 1 person. Confidence: 0.55.
+INC-2026-003140,No activity detected,Video,00:00:03,CCTV - LeftBag,0.0,Motion detected in frame. No objects identified above confidence threshold.
+INC-2026-003141,No activity detected,Video,00:00:04,CCTV - LeftBag,0.0,Motion detected in frame. No objects identified above confidence threshold.
+INC-2026-003142,No activity detected,Video,00:00:04,CCTV - LeftBag,0.0,Motion detected in frame. No objects identified above confidence threshold.
+INC-2026-003143,Person walking / present,Video,00:00:05,CCTV - LeftBag,0.6,Event detected: Person walking / present. Objects: 1 person. Confidence: 0.6.
+INC-2026-003144,No activity detected,Video,00:00:05,CCTV - LeftBag,0.0,Motion detected in frame. No objects identified above confidence threshold.
+INC-2026-003145,No activity detected,Video,00:00:06,CCTV - LeftBag,0.0,Motion detected in frame. No objects identified above confidence threshold.
+INC-2026-003146,No activity detected,Video,00:00:06,CCTV - LeftBag,0.0,Motion detected in frame. No objects identified above confidence threshold.
+INC-2026-003147,No activity detected,Video,00:00:07,CCTV - LeftBag,0.0,Motion detected in frame. No objects identified above confidence threshold.
+INC-2026-003148,No activity detected,Video,00:00:07,CCTV - LeftBag,0.0,Motion detected in frame. No objects identified above confidence threshold.
+INC-2026-003149,No activity detected,Video,00:00:08,CCTV - LeftBag,0.0,Motion detected in frame. No objects identified above confidence threshold.
+INC-2026-003150,No activity detected,Video,00:00:08,CCTV - LeftBag,0.0,Motion detected in frame. No objects identified above confidence threshold.
+INC-2026-003151,No activity detected,Video,00:00:09,CCTV - LeftBag,0.0,Motion detected in frame. No objects identified above confidence threshold.
+INC-2026-003152,No activity detected,Video,00:00:09,CCTV - LeftBag,0.0,Motion detected in frame. No objects identified above confidence threshold.
+INC-2026-003153,No activity detected,Video,00:00:10,CCTV - LeftBag,0.0,Motion detected in frame. No objects identified above confidence threshold.
+INC-2026-003154,No activity detected,Video,00:00:10,CCTV - LeftBag,0.0,Motion detected in frame. No objects identified above confidence threshold.
+INC-2026-003155,No activity detected,Video,00:00:11,CCTV - LeftBag,0.0,Motion detected in frame. No objects identified above confidence threshold.
+INC-2026-003156,No activity detected,Video,00:00:11,CCTV - LeftBag,0.0,Motion detected in frame. No objects identified above confidence threshold.
+INC-2026-003157,No activity detected,Video,00:00:12,CCTV - LeftBag,0.0,Motion detected in frame. No objects identified above confidence threshold.
+INC-2026-003158,Person walking / present,Video,00:00:12,CCTV - LeftBag,0.29,Event detected: Person walking / present. Objects: 1 person. Confidence: 0.29.
+INC-2026-003159,Possible altercation / two-person interaction,Video,00:00:12,CCTV - LeftBag,0.35,Event detected: Possible altercation / two-person interaction. Objects: 2 person. Confidence: 0.35.
+INC-2026-003160,No activity detected,Video,00:00:14,CCTV - LeftBag,0.0,Motion detected in frame. No objects identified above confidence threshold.
+INC-2026-003161,No activity detected,Video,00:00:17,CCTV - LeftBag,0.0,Motion detected in frame. No objects identified above confidence threshold.
+INC-2026-003162,No activity detected,Video,00:00:17,CCTV - LeftBag,0.0,Motion detected in frame. No objects identified above confidence threshold.
+INC-2026-003163,No activity detected,Video,00:00:18,CCTV - LeftBag,0.0,Motion detected in frame. No objects identified above confidence threshold.
+INC-2026-003164,No activity detected,Video,00:00:18,CCTV - LeftBag,0.0,Motion detected in frame. No objects identified above confidence threshold.
+INC-2026-003165,Possible person down / collapse,Video,00:00:19,CCTV - LeftBag,0.32,Event detected: Possible person down / collapse. Objects: 1 person. Confidence: 0.32.
+INC-2026-003166,No activity detected,Video,00:00:19,CCTV - LeftBag,0.0,Motion detected in frame. No objects identified above confidence threshold.
+INC-2026-003167,No activity detected,Video,00:00:20,CCTV - LeftBag,0.0,Motion detected in frame. No objects identified above confidence threshold.
+INC-2026-003168,No activity detected,Video,00:00:20,CCTV - LeftBag,0.0,Motion detected in frame. No objects identified above confidence threshold.
+INC-2026-003169,No activity detected,Video,00:00:21,CCTV - LeftBag,0.0,Motion detected in frame. No objects identified above confidence threshold.
+INC-2026-003170,No activity detected,Video,00:00:21,CCTV - LeftBag,0.0,Motion detected in frame. No objects identified above confidence threshold.
+INC-2026-003171,No activity detected,Video,00:00:22,CCTV - LeftBag,0.0,Motion detected in frame. No objects identified above confidence threshold.
+INC-2026-003172,No activity detected,Video,00:00:33,CCTV - LeftBag,0.0,Motion detected in frame. No objects identified above confidence threshold.
+INC-2026-003173,No activity detected,Video,00:00:34,CCTV - LeftBag,0.0,Motion detected in frame. No objects identified above confidence threshold.
+INC-2026-003174,Person walking / present,Video,00:00:34,CCTV - LeftBag,0.54,Event detected: Person walking / present. Objects: 1 person. Confidence: 0.54.
+INC-2026-003175,Person walking / present,Video,00:00:35,CCTV - LeftBag,0.75,Event detected: Person walking / present. Objects: 1 person. Confidence: 0.75.
+INC-2026-003176,Person walking / present,Video,00:00:35,CCTV - LeftBag,0.58,Event detected: Person walking / present. Objects: 1 person. Confidence: 0.58.
+INC-2026-003177,Possible altercation / two-person interaction,Video,00:00:36,CCTV - LeftBag,0.8,Event detected: Possible altercation / two-person interaction. Objects: 2 person. Confidence: 0.8.
+INC-2026-003178,Possible altercation / two-person interaction,Video,00:00:36,CCTV - LeftBag,0.81,Event detected: Possible altercation / two-person interaction. Objects: 2 person. Confidence: 0.81.
+INC-2026-003179,No activity detected,Video,00:00:36,CCTV - LeftBag,0.0,Motion detected in frame. No objects identified above confidence threshold.
+INC-2026-003180,No activity detected,Video,00:00:37,CCTV - LeftBag,0.0,Motion detected in frame. No objects identified above confidence threshold.
+INC-2026-003181,Person walking / present,Video,00:00:38,CCTV - LeftBag,0.82,Event detected: Person walking / present. Objects: 1 person. Confidence: 0.82.
+INC-2026-003182,No activity detected,Video,00:00:38,CCTV - LeftBag,0.72,Event detected: No activity detected. Objects: 1 bird. Confidence: 0.72.
+INC-2026-003183,Person walking / present,Video,00:00:39,CCTV - LeftBag,0.54,Event detected: Person walking / present. Objects: 1 person. Confidence: 0.54.
+INC-2026-003184,Person walking / present,Video,00:00:39,CCTV - LeftBag,0.49,Event detected: Person walking / present. Objects: 1 person. Confidence: 0.49.
+INC-2026-003185,No activity detected,Video,00:00:40,CCTV - LeftBag,0.37,Event detected: No activity detected. Objects: 1 bird. Confidence: 0.37.
+INC-2026-003186,No activity detected,Video,00:00:40,CCTV - LeftBag,0.0,Motion detected in frame. No objects identified above confidence threshold.
+INC-2026-003187,No activity detected,Video,00:00:41,CCTV - LeftBag,0.0,Motion detected in frame. No objects identified above confidence threshold.
+INC-2026-003188,No activity detected,Video,00:00:50,CCTV - LeftBag,0.0,Motion detected in frame. No objects identified above confidence threshold.
+INC-2026-003189,No activity detected,Video,00:00:50,CCTV - LeftBag,0.0,Motion detected in frame. No objects identified above confidence threshold.
+INC-2026-003190,No activity detected,Video,00:00:51,CCTV - LeftBag,0.0,Motion detected in frame. No objects identified above confidence threshold.
+INC-2026-003191,Person walking / present,Video,00:00:51,CCTV - LeftBag,0.28,Event detected: Person walking / present. Objects: 1 person. Confidence: 0.28.
+INC-2026-003192,Person walking / present,Video,00:00:52,CCTV - LeftBag,0.48,"Event detected: Person walking / present. Objects: 1 bird, 1 person. Confidence: 0.48."
+INC-2026-003193,Person walking / present,Video,00:00:52,CCTV - LeftBag,0.47,Event detected: Person walking / present. Objects: 1 person. Confidence: 0.47.
+INC-2026-003194,No activity detected,Video,00:00:53,CCTV - LeftBag,0.0,Motion detected in frame. No objects identified above confidence threshold.
+INC-2026-003195,No activity detected,Video,00:00:54,CCTV - LeftBag,0.0,Motion detected in frame. No objects identified above confidence threshold.
+INC-2026-003196,No activity detected,Video,00:00:54,CCTV - LeftBag,0.0,Motion detected in frame. No objects identified above confidence threshold.
+INC-2026-003197,Possible person down / collapse,Video,00:00:55,CCTV - LeftBag,0.56,Event detected: Possible person down / collapse. Objects: 1 person. Confidence: 0.56.
+INC-2026-003198,No activity detected,Video,00:00:55,CCTV - LeftBag,0.0,Motion detected in frame. No objects identified above confidence threshold.
+INC-2026-003199,Possible person down / collapse,Video,00:00:56,CCTV - LeftBag,0.4,Event detected: Possible person down / collapse. Objects: 1 person. Confidence: 0.4.
+INC-2026-003200,No activity detected,Video,00:00:56,CCTV - LeftBag,0.0,Motion detected in frame. No objects identified above confidence threshold.
+INC-2026-003201,Person walking / present,Video,00:00:00,CCTV - Fight_Chase,0.37,Event detected: Person walking / present. Objects: 1 person. Confidence: 0.37.
+INC-2026-003202,Person walking / present,Video,00:00:00,CCTV - Fight_Chase,0.53,Event detected: Person walking / present. Objects: 1 person. Confidence: 0.53.
+INC-2026-003203,Possible person down / collapse,Video,00:00:01,CCTV - Fight_Chase,0.5,Event detected: Possible person down / collapse. Objects: 1 person. Confidence: 0.5.
+INC-2026-003204,Possible person down / collapse,Video,00:00:01,CCTV - Fight_Chase,0.44,Event detected: Possible person down / collapse. Objects: 1 person. Confidence: 0.44.
+INC-2026-003205,Crowd gathering,Video,00:00:02,CCTV - Fight_Chase,0.41,Event detected: Crowd gathering. Objects: 3 person. Confidence: 0.41.
+INC-2026-003206,Possible person down / collapse,Video,00:00:03,CCTV - Fight_Chase,0.36,Event detected: Possible person down / collapse. Objects: 1 person. Confidence: 0.36.
+INC-2026-003207,No activity detected,Video,00:00:03,CCTV - Fight_Chase,0.0,Motion detected in frame. No objects identified above confidence threshold.
+INC-2026-003208,No activity detected,Video,00:00:04,CCTV - Fight_Chase,0.0,Motion detected in frame. No objects identified above confidence threshold.
+INC-2026-003209,No activity detected,Video,00:00:04,CCTV - Fight_Chase,0.0,Motion detected in frame. No objects identified above confidence threshold.
+INC-2026-003210,Person walking / present,Video,00:00:05,CCTV - Fight_Chase,0.32,Event detected: Person walking / present. Objects: 1 person. Confidence: 0.32.
+INC-2026-003211,Person walking / present,Video,00:00:05,CCTV - Fight_Chase,0.27,Event detected: Person walking / present. Objects: 1 person. Confidence: 0.27.
+INC-2026-003212,No activity detected,Video,00:00:07,CCTV - Fight_Chase,0.0,Motion detected in frame. No objects identified above confidence threshold.
+INC-2026-003213,Person walking / present,Video,00:00:07,CCTV - Fight_Chase,0.25,Event detected: Person walking / present. Objects: 1 person. Confidence: 0.25.
+INC-2026-003214,No activity detected,Video,00:00:08,CCTV - Fight_Chase,0.0,Motion detected in frame. No objects identified above confidence threshold.
+INC-2026-003215,Person walking / present,Video,00:00:08,CCTV - Fight_Chase,0.26,Event detected: Person walking / present. Objects: 1 person. Confidence: 0.26.
+INC-2026-003216,Person walking / present,Video,00:00:09,CCTV - Fight_Chase,0.44,Event detected: Person walking / present. Objects: 1 person. Confidence: 0.44.
+INC-2026-003217,Person walking / present,Video,00:00:09,CCTV - Fight_Chase,0.27,Event detected: Person walking / present. Objects: 1 person. Confidence: 0.27.
+INC-2026-003218,Person walking / present,Video,00:00:10,CCTV - Fight_Chase,0.38,Event detected: Person walking / present. Objects: 1 person. Confidence: 0.38.
+INC-2026-003219,No activity detected,Video,00:00:10,CCTV - Fight_Chase,0.0,Motion detected in frame. No objects identified above confidence threshold.
+INC-2026-003220,No activity detected,Video,00:00:11,CCTV - Fight_Chase,0.0,Motion detected in frame. No objects identified above confidence threshold.
+INC-2026-003221,No activity detected,Video,00:00:11,CCTV - Fight_Chase,0.0,Motion detected in frame. No objects identified above confidence threshold.
+INC-2026-003222,Person walking / present,Video,00:00:12,CCTV - Fight_Chase,0.3,Event detected: Person walking / present. Objects: 1 person. Confidence: 0.3.
+INC-2026-003223,Person walking / present,Video,00:00:12,CCTV - Fight_Chase,0.29,Event detected: Person walking / present. Objects: 1 person. Confidence: 0.29.
+INC-2026-003224,No activity detected,Video,00:00:12,CCTV - Fight_Chase,0.0,Motion detected in frame. No objects identified above confidence threshold.
+INC-2026-003225,No activity detected,Video,00:00:13,CCTV - Fight_Chase,0.0,Motion detected in frame. No objects identified above confidence threshold.
+INC-2026-003226,No activity detected,Video,00:00:13,CCTV - Fight_Chase,0.0,Motion detected in frame. No objects identified above confidence threshold.
+INC-2026-003227,No activity detected,Video,00:00:14,CCTV - Fight_Chase,0.0,Motion detected in frame. No objects identified above confidence threshold.
+INC-2026-003228,Person walking / present,Video,00:00:14,CCTV - Fight_Chase,0.37,Event detected: Person walking / present. Objects: 1 person. Confidence: 0.37.
+INC-2026-003229,No activity detected,Video,00:00:15,CCTV - Fight_Chase,0.0,Motion detected in frame. No objects identified above confidence threshold.
+INC-2026-003230,Person walking / present,Video,00:00:15,CCTV - Fight_Chase,0.28,Event detected: Person walking / present. Objects: 1 person. Confidence: 0.28.
+INC-2026-003231,No activity detected,Video,00:00:16,CCTV - Fight_Chase,0.0,Motion detected in frame. No objects identified above confidence threshold.
+INC-2026-003232,No activity detected,Video,00:00:16,CCTV - Fight_Chase,0.0,Motion detected in frame. No objects identified above confidence threshold.
+INC-2026-003233,Person walking / present,Video,00:00:00,CCTV - Rest_SlumpOnFloor,0.53,"Event detected: Person walking / present. Objects: 2 bird, 1 person. Confidence: 0.53."
+INC-2026-003234,No activity detected,Video,00:00:00,CCTV - Rest_SlumpOnFloor,0.37,Event detected: No activity detected. Objects: 2 bird. Confidence: 0.37.
+INC-2026-003235,No activity detected,Video,00:00:01,CCTV - Rest_SlumpOnFloor,0.67,Event detected: No activity detected. Objects: 2 bird. Confidence: 0.67.
+INC-2026-003236,Possible altercation / two-person interaction,Video,00:00:01,CCTV - Rest_SlumpOnFloor,0.33,"Event detected: Possible altercation / two-person interaction. Objects: 1 bird, 2 person. Confidence: 0.33."
+INC-2026-003237,Person walking / present,Video,00:00:02,CCTV - Rest_SlumpOnFloor,0.28,Event detected: Person walking / present. Objects: 1 person. Confidence: 0.28.
+INC-2026-003238,No activity detected,Video,00:00:02,CCTV - Rest_SlumpOnFloor,0.7,Event detected: No activity detected. Objects: 1 bird. Confidence: 0.7.
+INC-2026-003239,Possible altercation / two-person interaction,Video,00:00:03,CCTV - Rest_SlumpOnFloor,0.44,Event detected: Possible altercation / two-person interaction. Objects: 2 person. Confidence: 0.44.
+INC-2026-003240,No activity detected,Video,00:00:03,CCTV - Rest_SlumpOnFloor,0.0,Motion detected in frame. No objects identified above confidence threshold.
+INC-2026-003241,Person walking / present,Video,00:00:04,CCTV - Rest_SlumpOnFloor,0.27,Event detected: Person walking / present. Objects: 1 person. Confidence: 0.27.
+INC-2026-003242,Person walking / present,Video,00:00:05,CCTV - Rest_SlumpOnFloor,0.26,Event detected: Person walking / present. Objects: 1 person. Confidence: 0.26.
+INC-2026-003243,Person walking / present,Video,00:00:06,CCTV - Rest_SlumpOnFloor,0.56,Event detected: Person walking / present. Objects: 1 person. Confidence: 0.56.
+INC-2026-003244,No activity detected,Video,00:00:06,CCTV - Rest_SlumpOnFloor,0.0,Motion detected in frame. No objects identified above confidence threshold.
+INC-2026-003245,Person walking / present,Video,00:00:07,CCTV - Rest_SlumpOnFloor,0.35,Event detected: Person walking / present. Objects: 1 person. Confidence: 0.35.
+INC-2026-003246,Person walking / present,Video,00:00:07,CCTV - Rest_SlumpOnFloor,0.31,"Event detected: Person walking / present. Objects: 1 bird, 1 person. Confidence: 0.31."
+INC-2026-003247,No activity detected,Video,00:00:08,CCTV - Rest_SlumpOnFloor,0.0,Motion detected in frame. No objects identified above confidence threshold.
+INC-2026-003248,No activity detected,Video,00:00:08,CCTV - Rest_SlumpOnFloor,0.0,Motion detected in frame. No objects identified above confidence threshold.
+INC-2026-003249,No activity detected,Video,00:00:09,CCTV - Rest_SlumpOnFloor,0.0,Motion detected in frame. No objects identified above confidence threshold.
+INC-2026-003250,No activity detected,Video,00:00:09,CCTV - Rest_SlumpOnFloor,0.0,Motion detected in frame. No objects identified above confidence threshold.
+INC-2026-003251,No activity detected,Video,00:00:14,CCTV - Rest_SlumpOnFloor,0.0,Motion detected in frame. No objects identified above confidence threshold.
+INC-2026-003252,No activity detected,Video,00:00:15,CCTV - Rest_SlumpOnFloor,0.0,Motion detected in frame. No objects identified above confidence threshold.
+INC-2026-003253,No activity detected,Video,00:00:15,CCTV - Rest_SlumpOnFloor,0.0,Motion detected in frame. No objects identified above confidence threshold.
+INC-2026-003254,No activity detected,Video,00:00:16,CCTV - Rest_SlumpOnFloor,0.0,Motion detected in frame. No objects identified above confidence threshold.
+INC-2026-003255,Person walking / present,Video,00:00:16,CCTV - Rest_SlumpOnFloor,0.29,Event detected: Person walking / present. Objects: 1 person. Confidence: 0.29.
+INC-2026-003256,No activity detected,Video,00:00:17,CCTV - Rest_SlumpOnFloor,0.0,Motion detected in frame. No objects identified above confidence threshold.
+INC-2026-003257,No activity detected,Video,00:00:17,CCTV - Rest_SlumpOnFloor,0.37,Event detected: No activity detected. Objects: 1 skateboard. Confidence: 0.37.
+INC-2026-003258,Person walking / present,Video,00:00:18,CCTV - Rest_SlumpOnFloor,0.45,"Event detected: Person walking / present. Objects: 1 bird, 1 person. Confidence: 0.45."
+INC-2026-003259,Person walking / present,Video,00:00:18,CCTV - Rest_SlumpOnFloor,0.28,Event detected: Person walking / present. Objects: 1 person. Confidence: 0.28.
+INC-2026-003260,Person walking / present,Video,00:00:19,CCTV - Rest_SlumpOnFloor,0.27,Event detected: Person walking / present. Objects: 1 person. Confidence: 0.27.
+INC-2026-003261,Person walking / present,Video,00:00:19,CCTV - Rest_SlumpOnFloor,0.66,"Event detected: Person walking / present. Objects: 1 bird, 1 person. Confidence: 0.66."
+INC-2026-003262,Person walking / present,Video,00:00:20,CCTV - Rest_SlumpOnFloor,0.4,Event detected: Person walking / present. Objects: 1 person. Confidence: 0.4.
+INC-2026-003263,Person walking / present,Video,00:00:20,CCTV - Rest_SlumpOnFloor,0.73,Event detected: Person walking / present. Objects: 1 person. Confidence: 0.73.
+INC-2026-003264,Person walking / present,Video,00:00:21,CCTV - Rest_SlumpOnFloor,0.67,Event detected: Person walking / present. Objects: 1 person. Confidence: 0.67.
+INC-2026-003265,Person walking / present,Video,00:00:21,CCTV - Rest_SlumpOnFloor,0.36,Event detected: Person walking / present. Objects: 1 person. Confidence: 0.36.
+INC-2026-003266,Person walking / present,Video,00:00:22,CCTV - Rest_SlumpOnFloor,0.44,Event detected: Person walking / present. Objects: 1 person. Confidence: 0.44.
+INC-2026-003267,No activity detected,Video,00:00:32,CCTV - Rest_SlumpOnFloor,0.0,Motion detected in frame. No objects identified above confidence threshold.
+INC-2026-003268,Person walking / present,Video,00:00:33,CCTV - Rest_SlumpOnFloor,0.47,Event detected: Person walking / present. Objects: 1 person. Confidence: 0.47.
+INC-2026-003269,Person walking / present,Video,00:00:34,CCTV - Rest_SlumpOnFloor,0.25,Event detected: Person walking / present. Objects: 1 person. Confidence: 0.25.
+INC-2026-003270,Possible altercation / two-person interaction,Video,00:00:34,CCTV - Rest_SlumpOnFloor,0.53,Event detected: Possible altercation / two-person interaction. Objects: 2 person. Confidence: 0.53.
+INC-2026-003271,Person walking / present,Video,00:00:35,CCTV - Rest_SlumpOnFloor,0.31,Event detected: Person walking / present. Objects: 1 person. Confidence: 0.31.
+INC-2026-003272,Possible person down / collapse,Video,00:00:35,CCTV - Rest_SlumpOnFloor,0.64,Event detected: Possible person down / collapse. Objects: 1 person. Confidence: 0.64.
+INC-2026-003273,Possible altercation / two-person interaction,Video,00:00:36,CCTV - Rest_SlumpOnFloor,0.6,Event detected: Possible altercation / two-person interaction. Objects: 2 person. Confidence: 0.6.
+INC-2026-003274,No activity detected,Video,00:00:09,CCTV - Meet_WalkTogether1,0.0,Motion detected in frame. No objects identified above confidence threshold.
+INC-2026-003275,No activity detected,Video,00:00:09,CCTV - Meet_WalkTogether1,0.0,Motion detected in frame. No objects identified above confidence threshold.
+INC-2026-003276,No activity detected,Video,00:00:10,CCTV - Meet_WalkTogether1,0.0,Motion detected in frame. No objects identified above confidence threshold.
+INC-2026-003277,No activity detected,Video,00:00:10,CCTV - Meet_WalkTogether1,0.0,Motion detected in frame. No objects identified above confidence threshold.
+INC-2026-003278,No activity detected,Video,00:00:11,CCTV - Meet_WalkTogether1,0.0,Motion detected in frame. No objects identified above confidence threshold.
+INC-2026-003279,No activity detected,Video,00:00:11,CCTV - Meet_WalkTogether1,0.66,Event detected: No activity detected. Objects: 1 bird. Confidence: 0.66.
+INC-2026-003280,No activity detected,Video,00:00:12,CCTV - Meet_WalkTogether1,0.0,Motion detected in frame. No objects identified above confidence threshold.
+INC-2026-003281,No activity detected,Video,00:00:12,CCTV - Meet_WalkTogether1,0.0,Motion detected in frame. No objects identified above confidence threshold.
+INC-2026-003282,No activity detected,Video,00:00:12,CCTV - Meet_WalkTogether1,0.0,Motion detected in frame. No objects identified above confidence threshold.
+INC-2026-003283,Person walking / present,Video,00:00:13,CCTV - Meet_WalkTogether1,0.67,Event detected: Person walking / present. Objects: 1 person. Confidence: 0.67.
+INC-2026-003284,No activity detected,Video,00:00:13,CCTV - Meet_WalkTogether1,0.0,Motion detected in frame. No objects identified above confidence threshold.
+INC-2026-003285,No activity detected,Video,00:00:14,CCTV - Meet_WalkTogether1,0.0,Motion detected in frame. No objects identified above confidence threshold.
+INC-2026-003286,No activity detected,Video,00:00:14,CCTV - Meet_WalkTogether1,0.0,Motion detected in frame. No objects identified above confidence threshold.
+INC-2026-003287,No activity detected,Video,00:00:15,CCTV - Meet_WalkTogether1,0.0,Motion detected in frame. No objects identified above confidence threshold.
+INC-2026-003288,Person walking / present,Video,00:00:15,CCTV - Meet_WalkTogether1,0.31,Event detected: Person walking / present. Objects: 1 person. Confidence: 0.31.
+INC-2026-003289,No activity detected,Video,00:00:16,CCTV - Meet_WalkTogether1,0.0,Motion detected in frame. No objects identified above confidence threshold.
+INC-2026-003290,No activity detected,Video,00:00:00,CCTV - LeftBag_PickedUp,0.0,Motion detected in frame. No objects identified above confidence threshold.
+INC-2026-003291,Possible person down / collapse,Video,00:00:00,CCTV - LeftBag_PickedUp,0.85,Event detected: Possible person down / collapse. Objects: 1 person. Confidence: 0.85.
+INC-2026-003292,Possible altercation / two-person interaction,Video,00:00:01,CCTV - LeftBag_PickedUp,0.51,"Event detected: Possible altercation / two-person interaction. Objects: 1 bird, 2 person. Confidence: 0.51."
+INC-2026-003293,Person walking / present,Video,00:00:01,CCTV - LeftBag_PickedUp,0.65,"Event detected: Person walking / present. Objects: 1 bird, 1 person. Confidence: 0.65."
+INC-2026-003294,Possible altercation / two-person interaction,Video,00:00:02,CCTV - LeftBag_PickedUp,0.83,Event detected: Possible altercation / two-person interaction. Objects: 2 person. Confidence: 0.83.
+INC-2026-003295,No activity detected,Video,00:00:03,CCTV - LeftBag_PickedUp,0.0,Motion detected in frame. No objects identified above confidence threshold.
+INC-2026-003296,Person walking / present,Video,00:00:03,CCTV - LeftBag_PickedUp,0.27,Event detected: Person walking / present. Objects: 1 person. Confidence: 0.27.
+INC-2026-003297,No activity detected,Video,00:00:04,CCTV - LeftBag_PickedUp,0.0,Motion detected in frame. No objects identified above confidence threshold.
+INC-2026-003298,No activity detected,Video,00:00:04,CCTV - LeftBag_PickedUp,0.0,Motion detected in frame. No objects identified above confidence threshold.
+INC-2026-003299,No activity detected,Video,00:00:11,CCTV - LeftBag_PickedUp,0.0,Motion detected in frame. No objects identified above confidence threshold.
+INC-2026-003300,No activity detected,Video,00:00:12,CCTV - LeftBag_PickedUp,0.0,Motion detected in frame. No objects identified above confidence threshold.
+INC-2026-003301,No activity detected,Video,00:00:12,CCTV - LeftBag_PickedUp,0.0,Motion detected in frame. No objects identified above confidence threshold.
+INC-2026-003302,No activity detected,Video,00:00:12,CCTV - LeftBag_PickedUp,0.0,Motion detected in frame. No objects identified above confidence threshold.
+INC-2026-003303,Possible person down / collapse,Video,00:00:13,CCTV - LeftBag_PickedUp,0.61,Event detected: Possible person down / collapse. Objects: 1 person. Confidence: 0.61.
+INC-2026-003304,No activity detected,Video,00:00:13,CCTV - LeftBag_PickedUp,0.0,Motion detected in frame. No objects identified above confidence threshold.
+INC-2026-003305,Possible altercation / two-person interaction,Video,00:00:14,CCTV - LeftBag_PickedUp,0.55,"Event detected: Possible altercation / two-person interaction. Objects: 1 bird, 2 person. Confidence: 0.55."
+INC-2026-003306,No activity detected,Video,00:00:14,CCTV - LeftBag_PickedUp,0.44,Event detected: No activity detected. Objects: 1 bird. Confidence: 0.44.
+INC-2026-003307,Person walking / present,Video,00:00:15,CCTV - LeftBag_PickedUp,0.28,Event detected: Person walking / present. Objects: 1 person. Confidence: 0.28.
+INC-2026-003308,Person walking / present,Video,00:00:15,CCTV - LeftBag_PickedUp,0.51,Event detected: Person walking / present. Objects: 1 person. Confidence: 0.51.
+INC-2026-003309,No activity detected,Video,00:00:16,CCTV - LeftBag_PickedUp,0.0,Motion detected in frame. No objects identified above confidence threshold.
+INC-2026-003310,No activity detected,Video,00:00:16,CCTV - LeftBag_PickedUp,0.0,Motion detected in frame. No objects identified above confidence threshold.
+INC-2026-003311,Person walking / present,Video,00:00:18,CCTV - LeftBag_PickedUp,0.5,Event detected: Person walking / present. Objects: 1 person. Confidence: 0.5.
+INC-2026-003312,Person walking / present,Video,00:00:18,CCTV - LeftBag_PickedUp,0.5,Event detected: Person walking / present. Objects: 1 person. Confidence: 0.5.
+INC-2026-003313,No activity detected,Video,00:00:21,CCTV - LeftBag_PickedUp,0.0,Motion detected in frame. No objects identified above confidence threshold.
+INC-2026-003314,No activity detected,Video,00:00:26,CCTV - LeftBag_PickedUp,0.0,Motion detected in frame. No objects identified above confidence threshold.
+INC-2026-003315,No activity detected,Video,00:00:26,CCTV - LeftBag_PickedUp,0.0,Motion detected in frame. No objects identified above confidence threshold.
+INC-2026-003316,No activity detected,Video,00:00:27,CCTV - LeftBag_PickedUp,0.0,Motion detected in frame. No objects identified above confidence threshold.
+INC-2026-003317,Person walking / present,Video,00:00:27,CCTV - LeftBag_PickedUp,0.59,Event detected: Person walking / present. Objects: 1 person. Confidence: 0.59.
+INC-2026-003318,Person walking / present,Video,00:00:28,CCTV - LeftBag_PickedUp,0.67,Event detected: Person walking / present. Objects: 1 person. Confidence: 0.67.
+INC-2026-003319,Possible altercation / two-person interaction,Video,00:00:28,CCTV - LeftBag_PickedUp,0.76,Event detected: Possible altercation / two-person interaction. Objects: 2 person. Confidence: 0.76.
+INC-2026-003320,Person walking / present,Video,00:00:29,CCTV - LeftBag_PickedUp,0.78,Event detected: Person walking / present. Objects: 1 person. Confidence: 0.78.
+INC-2026-003321,No activity detected,Video,00:00:34,CCTV - LeftBag_PickedUp,0.0,Motion detected in frame. No objects identified above confidence threshold.
+INC-2026-003322,Person walking / present,Video,00:00:35,CCTV - LeftBag_PickedUp,0.66,Event detected: Person walking / present. Objects: 1 person. Confidence: 0.66.
+INC-2026-003323,Possible altercation / two-person interaction,Video,00:00:35,CCTV - LeftBag_PickedUp,0.44,Event detected: Possible altercation / two-person interaction. Objects: 2 person. Confidence: 0.44.
+INC-2026-003324,Person walking / present,Video,00:00:36,CCTV - LeftBag_PickedUp,0.41,Event detected: Person walking / present. Objects: 1 person. Confidence: 0.41.
+INC-2026-003325,Person walking / present,Video,00:00:36,CCTV - LeftBag_PickedUp,0.53,Event detected: Person walking / present. Objects: 1 person. Confidence: 0.53.
+INC-2026-003326,Person walking / present,Video,00:00:36,CCTV - LeftBag_PickedUp,0.48,Event detected: Person walking / present. Objects: 1 person. Confidence: 0.48.
+INC-2026-003327,Person walking / present,Video,00:00:37,CCTV - LeftBag_PickedUp,0.71,Event detected: Person walking / present. Objects: 1 person. Confidence: 0.71.
+INC-2026-003328,No activity detected,Video,00:00:37,CCTV - LeftBag_PickedUp,0.0,Motion detected in frame. No objects identified above confidence threshold.
+INC-2026-003329,Person walking / present,Video,00:00:38,CCTV - LeftBag_PickedUp,0.33,Event detected: Person walking / present. Objects: 1 person. Confidence: 0.33.
+INC-2026-003330,Person walking / present,Video,00:00:38,CCTV - LeftBag_PickedUp,0.28,Event detected: Person walking / present. Objects: 1 person. Confidence: 0.28.
+INC-2026-003331,No activity detected,Video,00:00:39,CCTV - LeftBag_PickedUp,0.0,Motion detected in frame. No objects identified above confidence threshold.
+INC-2026-003332,Person walking / present,Video,00:00:39,CCTV - LeftBag_PickedUp,0.26,Event detected: Person walking / present. Objects: 1 person. Confidence: 0.26.
+INC-2026-003333,No activity detected,Video,00:00:40,CCTV - LeftBag_PickedUp,0.0,Motion detected in frame. No objects identified above confidence threshold.
+INC-2026-003334,No activity detected,Video,00:00:41,CCTV - LeftBag_PickedUp,0.0,Motion detected in frame. No objects identified above confidence threshold.
+INC-2026-003335,Possible altercation / two-person interaction,Video,00:00:41,CCTV - LeftBag_PickedUp,0.39,Event detected: Possible altercation / two-person interaction. Objects: 2 person. Confidence: 0.39.
+INC-2026-003336,No activity detected,Video,00:00:42,CCTV - LeftBag_PickedUp,0.0,Motion detected in frame. No objects identified above confidence threshold.
+INC-2026-003337,No activity detected,Video,00:00:42,CCTV - LeftBag_PickedUp,0.0,Motion detected in frame. No objects identified above confidence threshold.
+INC-2026-003338,Person walking / present,Video,00:00:43,CCTV - LeftBag_PickedUp,0.32,Event detected: Person walking / present. Objects: 1 person. Confidence: 0.32.
+INC-2026-003339,Possible altercation / two-person interaction,Video,00:00:43,CCTV - LeftBag_PickedUp,0.68,Event detected: Possible altercation / two-person interaction. Objects: 2 person. Confidence: 0.68.
+INC-2026-003340,No activity detected,Video,00:00:44,CCTV - LeftBag_PickedUp,0.0,Motion detected in frame. No objects identified above confidence threshold.
+INC-2026-003341,No activity detected,Video,00:00:44,CCTV - LeftBag_PickedUp,0.0,Motion detected in frame. No objects identified above confidence threshold.
+INC-2026-003342,No activity detected,Video,00:00:45,CCTV - LeftBag_PickedUp,0.0,Motion detected in frame. No objects identified above confidence threshold.
+INC-2026-003343,No activity detected,Video,00:00:45,CCTV - LeftBag_PickedUp,0.0,Motion detected in frame. No objects identified above confidence threshold.
