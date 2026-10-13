@@ -1,0 +1,591 @@
+{
+  "Vehicle chase": {
+    "title_count": 20,
+    "sample_titles": [
+      "Shooting &amp; pursuit",
+      "Pursuit 911",
+      "Out-of-control car",
+      "Runaway car",
+      "Pursuit &amp; shooting",
+      "Pursuit",
+      "Pursuit and shooting",
+      "Fatal pursuit"
+    ],
+    "description_keywords": [
+      "suspect",
+      "woman",
+      "dialed",
+      "officers",
+      "into",
+      "fled",
+      "shot",
+      "officer",
+      "deputies",
+      "chase",
+      "chased",
+      "vehicle",
+      "radio",
+      "sheriff",
+      "over"
+    ]
+  },
+  "Shooting": {
+    "title_count": 162,
+    "sample_titles": [
+      "Kansas City Shooting #1",
+      "Kansas City Shooting #2",
+      "Courthouse shooting",
+      "Deputy shooting",
+      "Pellet gun shooting \u2013 Wisc.",
+      "Burglary+shotgun \u2013 Tex.",
+      "Teen car shooting \u2013 Colo.",
+      "Accidental shooting \u2013 Fla."
+    ],
+    "description_keywords": [
+      "shot",
+      "dialed",
+      "killed",
+      "suspect",
+      "several",
+      "officers",
+      "shooting",
+      "himself",
+      "officer",
+      "fatally"
+    ]
+  },
+  "Murder": {
+    "title_count": 155,
+    "sample_titles": [
+      "Girl\u2019s Murder 911 Call",
+      "Murder 911 Call",
+      "Murder 911 call \u2013 Wash.",
+      "Murder 911 Call \u2013 SC",
+      "Murder-suicide \u2013 Wisc.",
+      "Murder 911",
+      "Murder 911 call",
+      "Double murder \u2013 Ken."
+    ],
+    "description_keywords": [
+      "dialed",
+      "shot",
+      "killed",
+      "woman",
+      "report",
+      "later",
+      "home",
+      "arrested",
+      "wife"
+    ]
+  },
+  "Stabbing": {
+    "title_count": 23,
+    "sample_titles": [
+      "Stabbing 911",
+      "Stabbing attack 911",
+      "Parents stabbed",
+      "Stabbings",
+      "Bar fatal stabbing",
+      "Stabbing",
+      "Knife carving",
+      "Stabbing"
+    ],
+    "description_keywords": [
+      "stabbed",
+      "dialed",
+      "woman",
+      "boyfriend",
+      "arrived",
+      "arrested",
+      "report",
+      "several",
+      "couple",
+      "husband"
+    ]
+  },
+  "Robbery": {
+    "title_count": 18,
+    "sample_titles": [
+      "North Hollywood bank robbery",
+      "Bank robbery",
+      "Bank robbery",
+      "Youthful robber",
+      "Bank robbery",
+      "Bank robbery",
+      "Bank robbery",
+      "Robbery"
+    ],
+    "description_keywords": [
+      "bank",
+      "dialed",
+      "suspect",
+      "help",
+      "store",
+      "woman",
+      "into",
+      "robbed",
+      "managed",
+      "three",
+      "suspects",
+      "robbers",
+      "employee",
+      "officers",
+      "took"
+    ]
+  },
+  "Burglary": {
+    "title_count": 29,
+    "sample_titles": [
+      "Home invasion",
+      "Burglary",
+      "Burglary",
+      "Home invasion",
+      "Invasion burglary",
+      "911 call during burglary",
+      "Burglary",
+      "Daytime burglary"
+    ],
+    "description_keywords": [
+      "home",
+      "dialed",
+      "into",
+      "while",
+      "woman",
+      "arrived",
+      "broke",
+      "suspect",
+      "arrested",
+      "burglars",
+      "girl",
+      "burglar"
+    ]
+  },
+  "Kidnapping": {
+    "title_count": 22,
+    "sample_titles": [
+      "Child abduction (Ohio)",
+      "Kidnap 911 \u2013 Tex.",
+      "Kidnap 911 \u2013 Calif.",
+      "Kidnapping call",
+      "Hoax kidnapping",
+      "Hostage situation",
+      "Amber Alert",
+      "Hostage escape"
+    ],
+    "description_keywords": [
+      "dialed",
+      "child",
+      "later",
+      "home",
+      "kidnapped",
+      "woman",
+      "been",
+      "father",
+      "girl",
+      "hours",
+      "arrested",
+      "help",
+      "mother"
+    ]
+  },
+  "Fire": {
+    "title_count": 30,
+    "sample_titles": [
+      "Sept. 11th Fire Tapes",
+      "Sept. 11th Fire Tapes #2",
+      "Maryland fire 911",
+      "Fire rescue 911 call-Md.",
+      "Oakland tanker fire 911",
+      "Fire rescue",
+      "Fatal fire",
+      "Fatal fire"
+    ],
+    "description_keywords": [
+      "fire",
+      "woman",
+      "house",
+      "dialed",
+      "firefighters",
+      "minutes",
+      "trapped",
+      "help",
+      "several",
+      "calls",
+      "comm",
+      "center",
+      "floor",
+      "rescue"
+    ]
+  },
+  "Explosion": {
+    "title_count": 5,
+    "sample_titles": [
+      "Gas main rupture",
+      "Boston bombing",
+      "Industrial explosion",
+      "HAZMAT Train Derailment",
+      "Natural gas explosion"
+    ],
+    "description_keywords": [
+      "people",
+      "fire",
+      "audio",
+      "bruno",
+      "killing",
+      "hour",
+      "local",
+      "scannerist",
+      "april",
+      "explosion",
+      "killed",
+      "injured",
+      "over",
+      "first",
+      "webcast",
+      "residents",
+      "sept",
+      "inch",
+      "high",
+      "pressure",
+      "transmission",
+      "line",
+      "failed",
+      "under"
+    ]
+  },
+  "Vehicle collision": {
+    "title_count": 34,
+    "sample_titles": [
+      "Crash 911 Call \u2013 Colo.",
+      "Festival crash \u2013 DC",
+      "Midair plane crash \u2013 Calif.",
+      "Plane crash",
+      "Plane crash",
+      "Plane crash",
+      "Helicopter crash",
+      "Train accident"
+    ],
+    "description_keywords": [
+      "crashed",
+      "dialed",
+      "plane",
+      "several",
+      "report",
+      "people",
+      "help",
+      "location",
+      "into",
+      "airport",
+      "killing",
+      "calls",
+      "near"
+    ]
+  },
+  "Vehicle in water": {
+    "title_count": 7,
+    "sample_titles": [
+      "Car into pond",
+      "Floating car",
+      "Drowning in car",
+      "Car in water",
+      "Icy pond rescue",
+      "Sinking vehicle",
+      "Car swept by water"
+    ],
+    "description_keywords": [
+      "into",
+      "woman",
+      "pond",
+      "dialed",
+      "help",
+      "highway",
+      "arriving",
+      "water",
+      "outside",
+      "drove",
+      "creek",
+      "rescued",
+      "sinking",
+      "could",
+      "laseke",
+      "cellular"
+    ]
+  },
+  "Medical emergency": {
+    "title_count": 34,
+    "sample_titles": [
+      "Baby not breathing",
+      "CPR by phone \u2013 Tenn.",
+      "Diabetes death 911 \u2013 Wisc.",
+      "Woman choking",
+      "Carbon monoxide",
+      "Unconscious woman",
+      "Child overdose",
+      "Overdose"
+    ],
+    "description_keywords": [
+      "dialed",
+      "woman",
+      "instructions",
+      "gave",
+      "later",
+      "unconscious",
+      "breathing",
+      "died",
+      "hospital",
+      "report",
+      "units",
+      "help",
+      "family"
+    ]
+  },
+  "Childbirth": {
+    "title_count": 8,
+    "sample_titles": [
+      "Baby Delivery 911 \u2013 Tex.",
+      "Child birth",
+      "Baby delivery",
+      "Baby delivery",
+      "Baby delivery",
+      "Baby delivery",
+      "Baby delivery",
+      "Baby Delivery"
+    ],
+    "description_keywords": [
+      "baby",
+      "father",
+      "dialed",
+      "deliver",
+      "couple",
+      "pulled",
+      "help",
+      "however",
+      "down",
+      "april",
+      "mich",
+      "their",
+      "premature",
+      "ryan",
+      "gave",
+      "instructions",
+      "pendergast",
+      "fielded",
+      "mother",
+      "days"
+    ]
+  },
+  "Drowning": {
+    "title_count": 9,
+    "sample_titles": [
+      "Columbus drowning 911",
+      "Pool save \u2013 Colo.",
+      "Drowning",
+      "Drowning",
+      "Drowning 911 call",
+      "Drowning",
+      "Child drowning",
+      "Drowning death"
+    ],
+    "description_keywords": [
+      "dialed",
+      "minutes",
+      "widmer",
+      "river",
+      "kronenberger",
+      "girl",
+      "into",
+      "ohio",
+      "where",
+      "drowned",
+      "spoke",
+      "location",
+      "asleep",
+      "later",
+      "spanish",
+      "fell"
+    ]
+  },
+  "Domestic disturbance": {
+    "title_count": 1,
+    "sample_titles": [
+      "Husband handcuffed"
+    ],
+    "description_keywords": [
+      "march",
+      "fairfield",
+      "conn",
+      "woman",
+      "handcuffed",
+      "herself",
+      "estranged",
+      "husband",
+      "saying",
+      "only",
+      "could",
+      "force",
+      "talk",
+      "helen",
+      "arrested",
+      "assault",
+      "unlawful",
+      "restraint",
+      "other",
+      "charges"
+    ]
+  },
+  "Carjacking": {
+    "title_count": 2,
+    "sample_titles": [
+      "Carjacking",
+      "Carjacking 911"
+    ],
+    "description_keywords": [
+      "woman",
+      "suspect",
+      "report",
+      "later",
+      "morehouse",
+      "park",
+      "ridge",
+      "left",
+      "while",
+      "carried",
+      "groceries",
+      "inside",
+      "home",
+      "appeared",
+      "drove",
+      "child",
+      "dialed",
+      "crime",
+      "issued",
+      "amber",
+      "alert",
+      "hours",
+      "citizen"
+    ]
+  },
+  "Suicide": {
+    "title_count": 3,
+    "sample_titles": [
+      "Suicidal caller",
+      "Suicidal caller",
+      "Workplace suicide"
+    ],
+    "description_keywords": [
+      "dialed",
+      "officers",
+      "talked",
+      "minutes",
+      "until",
+      "later",
+      "shot",
+      "mandery",
+      "brad",
+      "morgan",
+      "portland",
+      "building",
+      "just",
+      "robbed",
+      "someone",
+      "knifepoint",
+      "suicidal"
+    ]
+  },
+  "Animal attack": {
+    "title_count": 11,
+    "sample_titles": [
+      "Bear attack",
+      "Dog attack",
+      "Shark bite",
+      "Alligator attack",
+      "Bear attack 911 call",
+      "Dog attack on 911",
+      "Snake kills toddler",
+      "Stalked by coyotes"
+    ],
+    "description_keywords": [
+      "dialed",
+      "attacked",
+      "report",
+      "dogs",
+      "woman",
+      "bear",
+      "incident",
+      "bitten",
+      "july",
+      "sept",
+      "walking",
+      "home",
+      "arrived",
+      "minutes",
+      "later"
+    ]
+  },
+  "Plane crash": {
+    "title_count": 0,
+    "sample_titles": [],
+    "description_keywords": []
+  },
+  "DUI": {
+    "title_count": 5,
+    "sample_titles": [
+      "DUI 911 Caller \u2013 Wisc.",
+      "DUI arrest",
+      "DUI call",
+      "DUI caller",
+      "DUI Suspect"
+    ],
+    "description_keywords": [
+      "driver",
+      "dialed",
+      "report",
+      "sheriff",
+      "arrested",
+      "march",
+      "stopped",
+      "deputy",
+      "told",
+      "motorist",
+      "spotted",
+      "wrong",
+      "campbell",
+      "virg",
+      "caller",
+      "followed",
+      "miles"
+    ]
+  },
+  "False alarm": {
+    "title_count": 6,
+    "sample_titles": [
+      "Non-emerg 911\u2019s",
+      "Wrong address",
+      "Bad sandwich",
+      "Wrong Address",
+      "Bad chicken 911",
+      "Prank call"
+    ],
+    "description_keywords": [
+      "emergency",
+      "woman",
+      "sent",
+      "street",
+      "dialed",
+      "phone",
+      "june",
+      "caller",
+      "gave",
+      "correct",
+      "location",
+      "units",
+      "daniel",
+      "avenue",
+      "sarasota",
+      "mother",
+      "address",
+      "highland",
+      "sheriff"
+    ]
+  }
+}
