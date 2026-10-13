@@ -1,0 +1,11 @@
+pdfplumber
+pymupdf
+pytesseract
+pillow
+pandas
+spacy
+# After installing the above, also run:
+#   python -m spacy download en_core_web_sm
+# And install the Tesseract OCR engine at the system level:
+#   Ubuntu / Colab : apt-get install -y tesseract-ocr
+#   Windows        : https://github.com/UB-Mannheim/tesseract/wiki

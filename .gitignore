@@ -1,0 +1,25 @@
+# Python virtual environment
+.venv/
+venv/
+env/
+
+# Python cache files
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Environment variables and secrets
+.env
+.kaggle/
+kaggle.json
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Raw downloaded datasets
+text/data/
