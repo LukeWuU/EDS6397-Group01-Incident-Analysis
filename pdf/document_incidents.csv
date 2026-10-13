@@ -1,0 +1,15 @@
+Incident_ID,Event_Type,Source_Type,Date_Time,Location,Confidence_Score,Summary
+INC-2026-001000,Equipment Acquisition (MRAP/ARV),Document,2015-05-26,"Benton County, AR",0.9322,Benton County Sheriff (LESO2 p1-4). Mine Resistant Ambush Protected vehicle acquired through 1033 Program | Officer: Kelley Cradduck
+INC-2026-001001,Policy / Procedure,Document,2015-04-24,"Benton, AR",0.9446,Benton Police Department (LESO2 p5-8). ARMORED RESCUE VEHICLE (ARV) OPERATIONS | Officer: Scotty L. Hodges
+INC-2026-001002,Training Plan,Document,2014-07-01,"Bentonville, AR",0.815,Bentonville Police Department (LESO2 p9-9). Law Enforcement Standards and Training | Officer: Plaza Drive
+INC-2026-001003,Training Plan,Document,2014-07-02,"Bryant, AR",0.8898,"Bryant Police Department (LESO2 p10-10). 312 Roya Lane Bryant, AR 72022 | Officer: Mark Kizer"
+INC-2026-001004,Equipment Acquisition (MRAP/ARV),Document,Unknown,"Cabot, AR",0.945,Cabot Police Department (LESO2 p11-14). Mine Resistant Ambush Protected Vehicle (MRAP) | Officer: MRAP
+INC-2026-001005,Training Plan,Document,2015-05-29,"Craighead County, AR",0.9535,"Craighead County Sheriff (LESO2 p15-19). As of the 29"" day of May 2015, the Craighead County Sheriff's Office has implemented a policy | Officer: Randy Sharp"
+INC-2026-001006,Equipment Acquisition (MRAP/ARV),Document,2015-01-27,"Crawford County, AR",0.917,Crawford County Sheriff (LESO2 p20-23). Crawford County Sheriff's Department | Officer: I-49
+INC-2026-001007,Equipment Acquisition (MRAP/ARV),Document,2015-01-19,"Fort Smith, AR",0.9624,Fort Smith Police Department (LESO2 p24-26). From: Fort Smith Police Department | Officer: McMillen
+INC-2026-001008,Equipment Acquisition (MRAP/ARV),Document,2015-05-05,"Hot Springs, AR",0.929,Hot Springs Police Department (LESO2 p27-31). MRAP Vehicle | Officer: Eric Wacaster
+INC-2026-001009,Training Plan,Document,2015-01-14,"Jacksonville, AR",0.955,"Jacksonville Police Department (LESO2 p32-35). The following documentation is intended to document to intended use and training of the Mine Resistatant | Officer: Brett Hibbs
+Date"
+INC-2026-001010,Training Plan,Document,2015-05-21,"Little Rock, AR",0.9328,Little Rock Police Department (LESO2 p36-73). Mine Resistant Ambush Protected Vehicle | Officer: James Ray
+INC-2026-001011,Training Plan,Document,2015-06-01,"Union County, AR",0.9119,Union County Sheriff (LESO2 p74-75). Mine Resistant Ambush Protected (MRAP) Vehicle | Officer: MIKE MCGOUGH
+INC-2026-001012,Reference List (Training Plans),Document,Unknown,Arkansas (statewide),1.0,List of Local Education Agencies with training plans. List of LEA with training plans Bentonville PD Mississippi CO SO Little Rock Police Department Jacksonville PD
