@@ -1,0 +1,89 @@
+Incident_ID,Event_Type,Source_Type,Date_Time,Location,Confidence_Score,Summary
+INC-2026-002000,Traffic Scene,Image,N/A,N/A,0.52,"Traffic scene detected with car, person, and motorcycle."
+INC-2026-002001,Traffic Scene,Image,N/A,N/A,0.48,"Traffic scene detected with truck, motorcycle, and person."
+INC-2026-002002,People Scene,Image,N/A,N/A,0.53,"People scene detected with person, tie, and frisbee."
+INC-2026-002003,Other,Image,N/A,N/A,0.0,Other detected.
+INC-2026-002004,Other,Image,N/A,N/A,0.0,"Other detected. OCR text: It was the best of
+times, it was the worst
+of times, it was the age
+of wisdom, it was the
+age of foolishness...."
+INC-2026-002005,Traffic Scene,Image,N/A,N/A,0.44,Traffic scene detected with stop sign and truck.
+INC-2026-002006,Fire Scene,Image,N/A,N/A,0.6,Fire scene detected with fire. OCR text: wet.
+INC-2026-002007,Fire Scene,Image,N/A,N/A,0.48,Fire scene detected with fire and car.
+INC-2026-002008,Smoke Scene,Image,N/A,N/A,0.46,"Smoke scene detected with person, backpack, and smoke."
+INC-2026-002009,Fire Scene,Image,N/A,N/A,0.55,Fire scene detected with car and fire.
+INC-2026-002010,Fire Scene,Image,N/A,N/A,0.49,Fire scene detected with fire and person.
+INC-2026-002011,Fire Scene,Image,N/A,N/A,0.69,Fire scene detected with fire.
+INC-2026-002012,Fire Scene,Image,N/A,N/A,0.47,"Fire scene detected with smoke, kite, and fire."
+INC-2026-002013,Fire Scene,Image,N/A,N/A,0.67,Fire scene detected with fire and person.
+INC-2026-002014,Fire Scene,Image,N/A,N/A,0.69,"Fire scene detected with person, fire, and smoke."
+INC-2026-002015,Fire Scene,Image,N/A,N/A,0.45,Fire scene detected with fire and traffic light.
+INC-2026-002016,Fire Scene,Image,N/A,N/A,0.57,Fire scene detected with fire.
+INC-2026-002017,Fire Scene,Image,N/A,N/A,0.67,Fire scene detected with fire and couch.
+INC-2026-002018,Fire Scene,Image,N/A,N/A,0.7,Fire scene detected with person and fire.
+INC-2026-002019,Fire Scene,Image,N/A,N/A,0.67,Fire scene detected with chair and fire.
+INC-2026-002020,Fire Scene,Image,N/A,N/A,0.5,Fire scene detected with fire and smoke.
+INC-2026-002021,Fire Scene,Image,N/A,N/A,0.4,"Fire scene detected with fire, couch, smoke, and chair."
+INC-2026-002022,Fire Scene,Image,N/A,N/A,0.55,Fire scene detected with smoke and fire.
+INC-2026-002023,Smoke Scene,Image,N/A,N/A,0.51,"Smoke scene detected with vase, smoke, and potted plant."
+INC-2026-002024,Fire Scene,Image,N/A,N/A,0.47,Fire scene detected with smoke and fire. OCR text: ee.
+INC-2026-002025,Fire Scene,Image,N/A,N/A,0.51,Fire scene detected with fire and person.
+INC-2026-002026,Other,Image,N/A,N/A,0.45,Other detected with kite.
+INC-2026-002027,Other,Image,N/A,N/A,0.0,Other detected.
+INC-2026-002028,Fire Scene,Image,N/A,N/A,0.7,Fire scene detected with chair and fire.
+INC-2026-002029,Other,Image,N/A,N/A,0.26,Other detected with bird.
+INC-2026-002030,Fire Scene,Image,N/A,N/A,0.34,Fire scene detected with fire and bird.
+INC-2026-002031,Fire Scene,Image,N/A,N/A,0.56,Fire scene detected with fire.
+INC-2026-002032,Fire Scene,Image,N/A,N/A,0.64,Fire scene detected with fire and smoke.
+INC-2026-002033,Fire Scene,Image,N/A,N/A,0.6,Fire scene detected with fire and smoke.
+INC-2026-002034,Fire Scene,Image,N/A,N/A,0.44,"Fire scene detected with fire, smoke, and giraffe. OCR text: 4.
+te
+
+ie."
+INC-2026-002035,Fire Scene,Image,N/A,N/A,0.5,"Fire scene detected with bus, fire, car, smoke, and person."
+INC-2026-002036,Fire Scene,Image,N/A,N/A,0.39,Fire scene detected with fire and smoke.
+INC-2026-002037,Fire Scene,Image,N/A,N/A,0.54,Fire scene detected with fire and smoke.
+INC-2026-002038,Fire Scene,Image,N/A,N/A,0.55,"Fire scene detected with smoke, person, and fire."
+INC-2026-002039,People Scene,Image,N/A,N/A,0.57,People scene detected with person.
+INC-2026-002040,Fire Scene,Image,N/A,N/A,0.39,"Fire scene detected with smoke, fire, and teddy bear. OCR text: Bitty."
+INC-2026-002041,Fire Scene,Image,N/A,N/A,0.58,"Fire scene detected with smoke and fire. OCR text: Hae
+
+www.czbtv.com."
+INC-2026-002042,Fire Scene,Image,N/A,N/A,0.61,"Fire scene detected with couch, fire, potted plant, and smoke."
+INC-2026-002043,Fire Scene,Image,N/A,N/A,0.54,"Fire scene detected with fire, smoke, and person."
+INC-2026-002044,Fire Scene,Image,N/A,N/A,0.49,"Fire scene detected with smoke, person, and fire."
+INC-2026-002045,Fire Scene,Image,N/A,N/A,0.6,Fire scene detected with fire.
+INC-2026-002046,Fire Scene,Image,N/A,N/A,0.5,"Fire scene detected with person, smoke, and fire."
+INC-2026-002047,Fire Scene,Image,N/A,N/A,0.71,"Fire scene detected with fire, motorcycle, car, smoke, and person."
+INC-2026-002048,Fire Scene,Image,N/A,N/A,0.52,Fire scene detected with fire and smoke.
+INC-2026-002049,Fire Scene,Image,N/A,N/A,0.84,Fire scene detected with smoke and fire.
+INC-2026-002050,Fire Scene,Image,N/A,N/A,0.53,Fire scene detected with fire and smoke.
+INC-2026-002051,Fire Scene,Image,N/A,N/A,0.49,Fire scene detected with smoke and fire.
+INC-2026-002052,Fire Scene,Image,N/A,N/A,0.49,"Fire scene detected with fire. OCR text: 10. PU) i437
+
+“ve .
+4 = Ee a
+
+Be Mi eee."
+INC-2026-002053,Fire Scene,Image,N/A,N/A,0.54,"Fire scene detected with fire, smoke, and truck. OCR text: Fm WNIT.."
+INC-2026-002054,Fire Scene,Image,N/A,N/A,0.48,"Fire scene detected with smoke and fire. OCR text: ~~ e—_- Sree:
+4A230 FF, WR SPRUE LK
+AMEE RG EI BGS BE 24 BN Be SE."
+INC-2026-002055,Fire Scene,Image,N/A,N/A,0.46,"Fire scene detected with person, smoke, and fire."
+INC-2026-002056,Fire Scene,Image,N/A,N/A,0.44,Fire scene detected with fire and smoke.
+INC-2026-002057,Fire Scene,Image,N/A,N/A,0.47,"Fire scene detected with person, fire, and smoke."
+INC-2026-002058,Fire Scene,Image,N/A,N/A,0.71,Fire scene detected with fire.
+INC-2026-002059,Fire Scene,Image,N/A,N/A,0.55,Fire scene detected with fire and smoke.
+INC-2026-002060,Fire Scene,Image,N/A,N/A,0.5,Fire scene detected with smoke and fire.
+INC-2026-002061,Fire Scene,Image,N/A,N/A,0.49,"Fire scene detected with fire, person, smoke, boat, and truck."
+INC-2026-002062,Fire Scene,Image,N/A,N/A,0.49,"Fire scene detected with smoke, fire, car, person, and truck."
+INC-2026-002063,Fire Scene,Image,N/A,N/A,0.58,Fire scene detected with smoke and fire.
+INC-2026-002064,Fire Scene,Image,N/A,N/A,0.83,"Fire scene detected with car, person, and fire. OCR text: ld."
+INC-2026-002065,Fire Scene,Image,N/A,N/A,0.49,Fire scene detected with fire and smoke.
+INC-2026-002066,Fire Scene,Image,N/A,N/A,0.61,"Fire scene detected with fire, smoke, person, and cat."
+INC-2026-002067,Fire Scene,Image,N/A,N/A,0.44,Fire scene detected with smoke and fire.
+INC-2026-002068,Fire Scene,Image,N/A,N/A,0.5,"Fire scene detected with smoke, fire, and train."
+INC-2026-002069,Fire Scene,Image,N/A,N/A,0.51,"Fire scene detected with smoke, person, fire, and motorcycle."
+INC-2026-002070,Fire Scene,Image,N/A,N/A,0.55,Fire scene detected with person and fire.
+INC-2026-002071,Fire Scene,Image,N/A,N/A,0.56,Fire scene detected with smoke and fire.

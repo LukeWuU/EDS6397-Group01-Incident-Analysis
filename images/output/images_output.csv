@@ -1,0 +1,89 @@
+Image_ID,Scene_Type,Objects_Detected,Text_Extracted,Confidence_Score
+IMG_001,Traffic Scene,car; person; motorcycle,N/A,0.52
+IMG_002,Traffic Scene,truck; motorcycle; person,N/A,0.48
+IMG_003,People Scene,person; tie; frisbee,N/A,0.53
+IMG_004,Other,,N/A,0.0
+IMG_005,Other,,"It was the best of
+times, it was the worst
+of times, it was the age
+of wisdom, it was the
+age of foolishness...",0.0
+IMG_006,Traffic Scene,stop sign; truck,N/A,0.44
+IMG_007,Fire Scene,fire,wet,0.6
+IMG_008,Fire Scene,fire; car,N/A,0.48
+IMG_009,Smoke Scene,person; backpack; smoke,N/A,0.46
+IMG_010,Fire Scene,car; fire,N/A,0.55
+IMG_011,Fire Scene,fire; person,N/A,0.49
+IMG_012,Fire Scene,fire,N/A,0.69
+IMG_013,Fire Scene,smoke; kite; fire,N/A,0.47
+IMG_014,Fire Scene,fire; person,N/A,0.67
+IMG_015,Fire Scene,person; fire; smoke,N/A,0.69
+IMG_016,Fire Scene,fire; traffic light,N/A,0.45
+IMG_017,Fire Scene,fire,N/A,0.57
+IMG_018,Fire Scene,fire; couch,N/A,0.67
+IMG_019,Fire Scene,person; fire,N/A,0.7
+IMG_020,Fire Scene,chair; fire,N/A,0.67
+IMG_021,Fire Scene,fire; smoke,N/A,0.5
+IMG_022,Fire Scene,fire; couch; smoke; chair,N/A,0.4
+IMG_023,Fire Scene,smoke; fire,N/A,0.55
+IMG_024,Smoke Scene,vase; smoke; potted plant,N/A,0.51
+IMG_025,Fire Scene,smoke; fire,ee,0.47
+IMG_026,Fire Scene,fire; person,N/A,0.51
+IMG_027,Other,kite,N/A,0.45
+IMG_028,Other,,N/A,0.0
+IMG_029,Fire Scene,chair; fire,N/A,0.7
+IMG_030,Other,bird,N/A,0.26
+IMG_031,Fire Scene,fire; bird,N/A,0.34
+IMG_032,Fire Scene,fire,N/A,0.56
+IMG_033,Fire Scene,fire; smoke,N/A,0.64
+IMG_034,Fire Scene,fire; smoke,N/A,0.6
+IMG_035,Fire Scene,fire; smoke; giraffe,"4.
+te
+
+ie",0.44
+IMG_036,Fire Scene,bus; fire; car; smoke; person,N/A,0.5
+IMG_037,Fire Scene,fire; smoke,N/A,0.39
+IMG_038,Fire Scene,fire; smoke,N/A,0.54
+IMG_039,Fire Scene,smoke; person; fire,N/A,0.55
+IMG_040,People Scene,person,N/A,0.57
+IMG_041,Fire Scene,smoke; fire; teddy bear,Bitty,0.39
+IMG_042,Fire Scene,smoke; fire,"Hae
+
+www.czbtv.com",0.58
+IMG_043,Fire Scene,couch; fire; potted plant; smoke,N/A,0.61
+IMG_044,Fire Scene,fire; smoke; person,N/A,0.54
+IMG_045,Fire Scene,smoke; person; fire,N/A,0.49
+IMG_046,Fire Scene,fire,N/A,0.6
+IMG_047,Fire Scene,person; smoke; fire,N/A,0.5
+IMG_048,Fire Scene,fire; motorcycle; car; smoke; person,N/A,0.71
+IMG_049,Fire Scene,fire; smoke,N/A,0.52
+IMG_050,Fire Scene,smoke; fire,N/A,0.84
+IMG_051,Fire Scene,fire; smoke,N/A,0.53
+IMG_052,Fire Scene,smoke; fire,N/A,0.49
+IMG_053,Fire Scene,fire,"10. PU) i437
+
+“ve .
+4 = Ee a
+
+Be Mi eee",0.49
+IMG_054,Fire Scene,fire; smoke; truck,Fm WNIT.,0.54
+IMG_055,Fire Scene,smoke; fire,"~~ e—_- Sree:
+4A230 FF, WR SPRUE LK
+AMEE RG EI BGS BE 24 BN Be SE",0.48
+IMG_056,Fire Scene,person; smoke; fire,N/A,0.46
+IMG_057,Fire Scene,fire; smoke,N/A,0.44
+IMG_058,Fire Scene,person; fire; smoke,N/A,0.47
+IMG_059,Fire Scene,fire,N/A,0.71
+IMG_060,Fire Scene,fire; smoke,N/A,0.55
+IMG_061,Fire Scene,smoke; fire,N/A,0.5
+IMG_062,Fire Scene,fire; person; smoke; boat; truck,N/A,0.49
+IMG_063,Fire Scene,smoke; fire; car; person; truck,N/A,0.49
+IMG_064,Fire Scene,smoke; fire,N/A,0.58
+IMG_065,Fire Scene,car; person; fire,ld,0.83
+IMG_066,Fire Scene,fire; smoke,N/A,0.49
+IMG_067,Fire Scene,fire; smoke; person; cat,N/A,0.61
+IMG_068,Fire Scene,smoke; fire,N/A,0.44
+IMG_069,Fire Scene,smoke; fire; train,N/A,0.5
+IMG_070,Fire Scene,smoke; person; fire; motorcycle,N/A,0.51
+IMG_071,Fire Scene,person; fire,N/A,0.55
+IMG_072,Fire Scene,smoke; fire,N/A,0.56
