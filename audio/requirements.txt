@@ -1,0 +1,14 @@
+streamlit==1.38.0
+pandas==2.2.2
+numpy==1.26.4
+torch==2.4.1
+torchaudio==2.4.1
+transformers>=4.51.0
+librosa==0.10.2.post1
+scipy==1.13.1
+soundfile==0.12.1
+nltk==3.9.1
+accelerate==0.34.2
+sentencepiece==0.2.0
+protobuf==5.28.0
+faster-whisper>=1.1.0
