@@ -1,0 +1,130 @@
+﻿Text_ID,Source,Raw_Text,Sentiment,Entities,Topic
+TXT-000001,Tweetbot for Mac,"Active crime scene on I-59/20 near Jeff/Tusc Co line. One dead, one injured; shooting involved. Police search in the area; traffic stopped",Negative,No entities found,Shooting
+TXT-000002,HootSuite,Police have arrested a suspect in the Monday shooting at the basketball courts behind Word Tabernacle Church. http://t.co/X67i7jajij,Negative,Monday (DATE); Word Tabernacle Church (ORG),Shooting
+TXT-000003,Tweet Button,Lawsuit alleges Chicago Police strip-searched trio in public http://t.co/NGVCe42BUW via @suntimes,Negative,Chicago (GPE),Police Activity
+TXT-000004,web,New NRA Advice: Don't Cooperate With Police If Your Gun Shows Up At A Crime Scene;  http://t.co/f96jCNY3wV #patriots #liberty,Negative,New NRA Advice (ORG),Police Activity
+TXT-000005,TweetDeck,"Police failing to stamp out ‘honour crimes’, from domestic violence and forced marriage to FGM and murder http://t.co/SLuXLgbQbU",Negative,FGM (ORG),Police Activity
+TXT-000006,TweetDeck,"Today's front page: 
+Police failing to stamp out ‘honour crimes’ http://t.co/SLuXLgbQbU http://t.co/w7ft9HW4Vx",Negative,Today (DATE),Police Activity
+TXT-000007,TweetDeck,"Town of Tonawanda Police Search for Bank Robbery Suspect
+http://t.co/4aJxs3Mv9G http://t.co/320mwHfuPl",Negative,Town of Tonawanda Police Search for Bank Robbery Suspect (ORG),Police Activity
+TXT-000008,HootSuite,"Due to lack of police protection, #Christians in #Pakistan become easy targets for crime and abuse. http://t.co/6Ld0Zs9h29 ^ws",Negative,Pakistan (GPE),Public Disturbance
+TXT-000009,Tweet Button,New #NRA Advice: Don't Cooperate With Police If Your Gun Shows Up At A Crime Scene http://t.co/ldIDJ75Did,Negative,New NRA Advice (ORG),Police Activity
+TXT-000010,Twitter for iPhone,Commish Batts makes a strong case for legalizing marijuana - to end the violent MJ trade in Baltimore. @baltimoresun http://t.co/A0TRUflAYl,Positive,Commish Batts (PERSON); Baltimore (GPE),Legal / Court
+TXT-000011,Tweet Button,Police swoop on the homeless taking sleeping bags and food parcels in co-ordinated raids in Redbridge http://t.co/ZWmE54jhBP,Negative,Redbridge (GPE),Police Activity
+TXT-000012,Buffer,#NRAadvice: Don’t cooperate with police if your gun shows up at a crime scene: http://t.co/c96U10ed1l,Negative,No entities found,Police Activity
+TXT-000013,dlvr.it,#Police : Become a Special Constable and help cut crime http://t.co/taxFZeQ4Vx Devon Cornwall,Positive,Devon Cornwall (PERSON),Police Activity
+TXT-000014,TweetDeck,BREAKING NEWS: Judge’s ruling favors officers in Badger Guns suit: http://t.co/QcQP0vLtd4,Negative,Badger Guns (ORG),Police Activity
+TXT-000015,Tweet Button,Woman police sergeant dives in river to drag drowning woman to safety http://t.co/WKSZ2Obw1k via @MailOnline Just #crime fighters? Nope!!!,Negative,No entities found,Police Activity
+TXT-000016,Twitter for Android,RT @blackmagicgal1: So AAP will continue to cry foul at Delhi police whenever a crime is reported rather than take responsibility like a go…,Negative,Delhi (GPE),Police Activity
+TXT-000017,web,RT @shiven_gaur: Crime/Lawlessness has always been a problem in Delhi. Home minister and Delhi Police are answerable. Media shud stop blami…,Negative,Crime/Lawlessness (ORG); Delhi (GPE); Delhi Police (PERSON); blami (PERSON),Legal / Court
+TXT-000018,web,RT @shiven_gaur: Crime/Lawlessness has always been a problem in Delhi. Home minister and Delhi Police are answerable. Media shud stop blami…,Negative,Crime/Lawlessness (ORG); Delhi (GPE); Delhi Police (PERSON); blami (PERSON),Legal / Court
+TXT-000019,Twitter for iPad,RT @shiven_gaur: Crime/Lawlessness has always been a problem in Delhi. Home minister and Delhi Police are answerable. Media shud stop blami…,Negative,Crime/Lawlessness (ORG); Delhi (GPE); Delhi Police (PERSON); blami (PERSON),Legal / Court
+TXT-000020,Mobile Web (M5),RT @CherryFlavoredd: Cause there isn't any real crime anywhere.. RT @DrinkingTicket: Police around capstone dorm arresting kids looking dru…,Negative,No entities found,Police Activity
+TXT-000021,web,RT @shiven_gaur: Crime/Lawlessness has always been a problem in Delhi. Home minister and Delhi Police are answerable. Media shud stop blami…,Negative,Crime/Lawlessness (ORG); Delhi (GPE); Delhi Police (PERSON); blami (PERSON),Legal / Court
+TXT-000022,twicca,RT @CherryFlavoredd: Cause there isn't any real crime anywhere.. RT @DrinkingTicket: Police around capstone dorm arresting kids looking dru…,Negative,No entities found,Police Activity
+TXT-000023,web,RT @DemandAction: #NRAadvice: Don’t cooperate with police if your gun shows up at a crime scene: http://t.co/c96U10ed1l,Negative,No entities found,Police Activity
+TXT-000024,web,RT @shiven_gaur: Crime/Lawlessness has always been a problem in Delhi. Home minister and Delhi Police are answerable. Media shud stop blami…,Negative,Crime/Lawlessness (ORG); Delhi (GPE); Delhi Police (PERSON); blami (PERSON),Legal / Court
+TXT-000025,Tweedle,Cause there isn't any real crime anywhere.. RT @DrinkingTicket: Police around capstone dorm arresting kids looking drunk coming back home...,Negative,No entities found,Police Activity
+TXT-000026,twitterfeed,"India News Delhi Police arrests three  in Rs 8 cr heist, some cash recovered, mastermind absconding http://t.co/HiyzKtG4cN",Negative,India News (ORG); Delhi (GPE),Theft / Robbery
+TXT-000027,twitterfeed,"India News Police sniffer dog's bark lands man in Mumbai jail for 10 years, High Court orders his release http://t.co/KAd6IIFW7r",Negative,India News Police (ORG); Mumbai (GPE); 10 years (DATE),Police Activity
+TXT-000028,web,Crime/Lawlessness has always been a problem in Delhi. Home minister and Delhi Police are answerable. Media shud stop blaming AAP.,Negative,Crime/Lawlessness (ORG); Delhi (GPE); Delhi Police (PERSON),Police Activity
+TXT-000029,Google,I added a video to a @YouTube playlist http://t.co/cir6DgKsvp World's Scariest Police Chases 4 (Crime Documentary),Positive,World (ORG); Scariest Police Chases 4 (ORG),Police Activity
+TXT-000030,dlvr.it,New #Legal Remedy Against Police Activities Within Criminal Investigations - Mondaq News Alerts (registration) http://t.co/S1XdGyPOUE,Negative,No entities found,Police Activity
+TXT-000031,web,"Police seek witnesses to grass fires (Delahey  - VIC):
+http://t.co/7OEdJQvhMi",Negative,No entities found,Police Activity
+TXT-000032,Twitter for BlackBerry,It's so shallow as for evry crime police is being blamed in #capital by govnment!they mean police has to b present ther b4 crime take place.,Negative,No entities found,Police Activity
+TXT-000033,Royal Times,Police swoop on kidnappers’ den in Onitsha - http://t.co/HeOoghHHKt http://t.co/AuQrW32iil,Negative,Onitsha (GPE),Police Activity
+TXT-000034,Twitter for iPhone,"RT @Gun_Shots: ""95% of the time police arrive too late to prevent a crime or arrest the suspect."" - US News and World Report, 17 June 1998",Negative,17 June 1998 (DATE),Police Activity
+TXT-000035,web,"@BansheeTvShow The entire police department, the bartender, the gay tech all were in the showdown but only Carrie is charged with a crime?",Negative,Carrie (PERSON),Police Activity
+TXT-000036,web,"Police union wants lock out zones expanded:
+http://t.co/hu8zOehB7G",Negative,No entities found,Police Activity
+TXT-000037,twitterfeed,Alert issued in Petaluma after men posing as police enter woman's home:  http://t.co/Gq7RrjkwXs,Negative,Petaluma (GPE),Police Activity
+TXT-000038,Twitter for iPhone,Bay Area journos on crime beat: there are 4 police cars &amp; yellow tape at sunny spot med. MJ shop on 17th right now. Don't know what's up.,Negative,Bay Area (LOC); 17th right now (DATE),Police Activity
+TXT-000039,Twitter for  Android,"RT @Darius_Suber95: Police are supposed to be fighting crime on the streets, not sitting in a hiding spot waiting to give someone a hoe ass…",Negative,No entities found,Police Activity
+TXT-000040,Win the Customer,"Peel #Police - Male Arrested on Attempt Murder Warrant http://t.co/tDQE83bFXX
+ #crime",Negative,Peel Police - Male (PERSON),Police Activity
+TXT-000041,twitterfeed,Belmar named St. Louis County police chief http://t.co/MXbeCRaJ5K,Positive,Belmar (PERSON); St. Louis County (GPE),Police Activity
+TXT-000042,Twitter for Android,RT @geophyraj: Is Mr @ArvindKejriwal going to blame Delhi Police for every crime in the city? Then what was Shiela Dikshit's fault?,Negative,Delhi Police (ORG); Shiela Dikshit's (PERSON),Police Activity
+TXT-000043,Twitter for iPhone,"""Men posing as police: Petaluma home invasion.""
+
+Uh, I'm not letting any cop in w/out a badge number confirmed.
+
+http://t.co/90vu7IBTx1",Negative,No entities found,Police Activity
+TXT-000044,web,"#NidoTaniam paid for breaking the glass, why were the shopkeepers not made to pay for their crime of beating him.#Delhi police must answer",Negative,NidoTaniam (ORG); Delhi (GPE),Other
+TXT-000045,HootSuite,The Times Picayune - Police investigating shooting in Pontchartrain Park http://t.co/iVehmyxnys,Positive,The Times Picayune - Police (ORG); Pontchartrain Park (GPE),Police Activity
+TXT-000046,Twitter for BlackBerry®,"#NidoTaniam paid for breaking the glass, why were the shopkeepers not made to pay for their crime of beating him.#Delhi police must answer",Negative,NidoTaniam (ORG); Delhi (GPE),Other
+TXT-000047,Twitter for Android,RT @blackmagicgal1: So AAP will continue to cry foul at Delhi police whenever a crime is reported rather than take responsibility like a go…,Negative,Delhi (GPE),Police Activity
+TXT-000048,twitterfeed,#Justice U.S. Marshals Task Force and Toledo Police Arrest Final Suspect in Murder Case: Tole... http://t.co/c5u4Mw7Feq #crime #HiTechCJ,Negative,Justice U.S. Marshals Task Force (ORG); Toledo Police Arrest Final Suspect (ORG); HiTechCJ (ORG),Police Activity
+TXT-000049,dlvr.it,Alert issued in Petaluma after men posing as police enter woman's home http://t.co/lVcwrHXthc #bayarea,Negative,Petaluma (GPE),Police Activity
+TXT-000050,Twitterrific,Watching crime and investigation and one of the police audio analysis investigators is wearing a pair of beats audio headphones.,Negative,No entities found,Police Activity
+TXT-000051,dlvr.it,Alert issued in Petaluma after men posing as police enter woman's home: Petaluma police issued a prowler alert... http://t.co/2iQRugpWfn,Negative,Petaluma (GPE),Police Activity
+TXT-000052,HootSuite,via @NOLAnews Police investigating shooting in Pontchartrain Park http://t.co/ikLjlj9V6V,Negative,Pontchartrain Park (GPE),Police Activity
+TXT-000053,web,Police Chief James Craig: More guns could equal less crime in Detroit http://t.co/CACeNrG6Kt,Negative,James Craig (PERSON); Detroit (GPE),Police Activity
+TXT-000054,Facebook,Again port st lucie!i know there's crime everywhere but they just stupid here http://t.co/qdSW6gWSA4,Negative,No entities found,Theft / Robbery
+TXT-000055,SocialOomph,Crime reports offered online http://t.co/gW087y5ELT,Negative,No entities found,Police Activity
+TXT-000056,SocialOomph,Crime reports offered online http://t.co/tmzdPaJaWi,Negative,No entities found,Police Activity
+TXT-000057,web,"Safeguarding: Investigation into 'why Lincolnshire police marked one third of all reported rapes as 'no crime'':
+http://t.co/MvMGf8Ehzv",Positive,Lincolnshire (GPE),Police Activity
+TXT-000058,twitterfeed,Alert issued in Petaluma after men posing as police enter woman's home: Petaluma police issued a prowler alert... http://t.co/Gq7RrjkwXs,Negative,Petaluma (GPE),Police Activity
+TXT-000059,Janetter,RT @Sissy2814: Some ppl are unfit to deserve such loyal companion. This is a crime if you see this call police. http://t.co/IDcRLIDO5L WHO …,Negative,No entities found,Police Activity
+TXT-000060,web,RT @Sissy2814: Some ppl are unfit to deserve such loyal companion. This is a crime if you see this call police. http://t.co/IDcRLIDO5L WHO …,Negative,No entities found,Police Activity
+TXT-000061,SocialOomph,Suburban Crime Log: 2-01 http://t.co/bCWfqPZo0W,Negative,No entities found,Police Activity
+TXT-000062,SocialOomph,Suburban Crime Log: 2-01 http://t.co/rf5vK5sh5X,Negative,No entities found,Police Activity
+TXT-000063,ArtificialWorldNews,UPDATED: Big data: police given access to British army's crime-fighting software http://t.co/XkU8xSx6vV,Positive,No entities found,Police Activity
+TXT-000064,web,RT @DemandAction: #NRAadvice: Don’t cooperate with police if your gun shows up at a crime scene: http://t.co/c96U10ed1l,Negative,No entities found,Police Activity
+TXT-000065,twitterfeed,"Arunachal student death: Delhi Police files murder case, magisterial probe ordered - Zee News http://t.co/nJewusvPbX",Negative,No entities found,Police Activity
+TXT-000066,TweetDeck,"What if instead of police dogs, there were giant man-sized police spiders.
+
+There would never be crime.",Negative,No entities found,Other
+TXT-000067,Twitter for iPhone,RT @NOLAnews: Police investigating shooting in Pontchartrain Park http://t.co/JFassdU7iv,Negative,Pontchartrain Park (GPE),Police Activity
+TXT-000068,TweetCaster for Android,RT @NOLAnews: Police investigating shooting in Pontchartrain Park http://t.co/JFassdU7iv,Negative,Pontchartrain Park (GPE),Police Activity
+TXT-000069,dlvr.it,Police investigating shooting in Pontchartrain Park http://t.co/JFassdU7iv,Negative,Pontchartrain Park (GPE),Police Activity
+TXT-000070,Facebook,"Tip helps Clarksville police foil school shooting, CPD says http://t.co/69W4Bkxaf4",Positive,Clarksville (PERSON); CPD (ORG),Police Activity
+TXT-000071,dlvr.it,Simi Valley sees second-safest year on record: Police said Friday that Simi Valley's crime rate fell to 14.8... http://t.co/QZbDdUzHT5,Negative,Simi Valley (LOC); Friday (DATE); Simi Valley's (GPE),Police Activity
+TXT-000072,twitterfeed,Police investigating shooting in Pontchartrain Park: Man shot in Gentilly neighborhood Saturday (Jan. 31) night. http://t.co/k55h9KWFdZ,Negative,Pontchartrain Park (GPE); Gentilly (PERSON); Saturday (DATE); Jan. 31 (DATE),Police Activity
+TXT-000073,Twitter for Android,RT @awkwardposts: Imagine if Police had giant police spiders instead of police dogs. There would be no crime.,Negative,No entities found,Police Activity
+TXT-000074,iOS,"Behind teen’s heroin overdose death, a troubling trend http://t.co/cxb8uv4giR",Negative,No entities found,Other
+TXT-000075,Facebook,Police searching for victims in alleged child porn bust http://t.co/bFxRozE3FW,Negative,No entities found,Police Activity
+TXT-000076,twitterfeed,Police investigating shooting in Pontchartrain Park http://t.co/BzP5fIOhAo,Negative,Pontchartrain Park (GPE),Police Activity
+TXT-000077,dlvr.it,"Police: Drugs, definitions behind crime rise: The number of serious crimes reported to Springfield police... http://t.co/CagUK9Pc4q",Positive,Springfield (GPE),Police Activity
+TXT-000078,dlvr.it,"News-Leader: Police: Drugs, definitions behind crime rise http://t.co/F9w3NAuM2K",Positive,No entities found,Police Activity
+TXT-000079,Twitter for Android,"RT @SinghRPN: .@AngellicAribam Yes,hv spoken to Delhi police for full and speedy probe,it is the most dastardly crime.shames all of us as I…",Negative,Delhi (GPE),Police Activity
+TXT-000080,dlvr.it,West Yorkshire’s police commissioner announces two per cent council tax hike: WEST Yorkshire’s police and crime... http://t.co/05x0dIeq57,Negative,West Yorkshire’s (GPE); WEST Yorkshire’s (PERSON),Police Activity
+TXT-000081,web,"""San Francisco police don’t keep crime stats as well as #Oakland"" http://t.co/IcDYOF9VgI",Negative,San Francisco (GPE); Oakland (GPE),Police Activity
+TXT-000082,Twitter for iPhone,"RT @girlweena: Just heard a police detective say ""interwishin'"" instead of ""intuition"" and am now considering a life of crime.",Negative,No entities found,Police Activity
+TXT-000083,web,"@stephgrain My response won't change from ""no comment."" If u have knowledge of a crime report to http://t.co/o0J6860Dun local police twitter",Negative,No entities found,Other
+TXT-000084,dlvr.it,McLean High School student’s heroin overdose shows disturbing trend facing police http://t.co/tqZiCJ0ReA,Negative,McLean High School (ORG),Police Activity
+TXT-000085,dlvr.it,McLean High School student’s heroin overdose shows disturbing trend facing police http://t.co/IcOKW2gOiz,Negative,McLean High School (ORG),Police Activity
+TXT-000086,dlvr.it,McLean High School student’s heroin overdose shows disturbing trend facing police http://t.co/V8DiQnF9aG,Negative,McLean High School (ORG),Police Activity
+TXT-000087,dlvr.it,McLean High School student’s heroin overdose shows disturbing trend facing police http://t.co/aCmS22XMt4,Negative,McLean High School (ORG),Police Activity
+TXT-000088,dlvr.it,McLean High School student’s heroin overdose shows disturbing trend facing police http://t.co/cuhrnmsmtn,Negative,McLean High School (ORG),Police Activity
+TXT-000089,dlvr.it,McLean High School student’s heroin overdose shows disturbing trend facing police http://t.co/lmetostVCT,Negative,McLean High School (ORG),Police Activity
+TXT-000090,dlvr.it,McLean High School student’s heroin overdose shows disturbing trend facing police http://t.co/dSIiQNTVwz,Negative,McLean High School (ORG),Police Activity
+TXT-000091,Leadify,"Crime prevention education, animal control services &amp; house watch are just a few ways our police force makes citizens feel safe &amp; secure.",Positive,No entities found,Police Activity
+TXT-000092,web,@Vote4AAP @AamAadmiParty @MSisodia&gt;RSS etc's Bigotry-Irrationality-Misogyny a Way o Life-80% Ppl w/ NO Civic SENSE-Police Partners of Crime&gt;,Negative,Bigotry-Irrationality-Misogyny (ORG),Police Activity
+TXT-000093,Twitter for Android,@pataz1 Her DNA was not found mixed all over the crime scene. Also Perugia's police allowed crime scene to be traipsed over multiple times.,Negative,Perugia (ORG),Police Activity
+TXT-000094,Twitter for Android,RT @ABCNews24_: Now: Greens Hansen Young says closure of Mt Thomas police station reckless and will increase crime from Ramsay Street to Su…,Negative,Hansen Young (PERSON); Mt Thomas (ORG); Ramsay Street to Su (FAC),Police Activity
+TXT-000095,TweetCaster for Android,2/2 Police will assist with injured animals when they are on a highway or where a crime is suspected,Positive,No entities found,Police Activity
+TXT-000096,Twitter for Windows Phone,@NoMoreDemocracy there's crime in it but no police or anything like that.,Negative,No entities found,Public Disturbance
+TXT-000097,Mobile Web (M2),"RT @SinghRPN: .@AngellicAribam Yes,hv spoken to Delhi police for full and speedy probe,it is the most dastardly crime.shames all of us as I…",Negative,Delhi (GPE),Police Activity
+TXT-000098,Twitter for Android,Heroin sold in McDonald's Happy Meals: Police http://t.co/4ZLnMPX3rc @bskousen we could of been rich!,Negative,Heroin (ORG); McDonald's Happy Meals: Police (ORG),Police Activity
+TXT-000099,twitterfeed,Man sentenced for fraud: FLORENCE — A man who police said took advantage of a good Samaritan has been sentence... http://t.co/ZySyaI2YFh,Negative,Samaritan (ORG),Police Activity
+TXT-000100,TweetAdder v4,#police #judgment #crime #court http://t.co/yXXZSpnmGO notes 6 #Laws You've Broken Without Even Realizing It http://t.co/cfuzHBt8kN,Negative,No entities found,Police Activity
+TXT-000101,RoundTeam,"RT @SinghRPN: .@AngellicAribam Yes,hv spoken to Delhi police for full and speedy probe,it is the most dastardly crime.shames all of us as I…",Negative,Delhi (GPE),Police Activity
+TXT-000102,web,RT @DemandAction: #NRAadvice: Don’t cooperate with police if your gun shows up at a crime scene: http://t.co/c96U10ed1l,Negative,No entities found,Police Activity
+TXT-000103,Mobile Web (M2),"RT @SinghRPN: .@AngellicAribam Yes,hv spoken to Delhi police for full and speedy probe,it is the most dastardly crime.shames all of us as I…",Negative,Delhi (GPE),Police Activity
+TXT-000104,Tweet Button,Baby Boy Death:  3 Arrested Over Murder http://t.co/rVZCBbtAEi #News #Crime #Police #PoliceAppeal,Negative,Baby Boy Death (PERSON),Police Activity
+TXT-000105,web,"RT @AbusedChildren: Richland: Police: Convicted child rapist living in Richland | Crime, fires &amp; court news |... http://t.co/7qfXmTza0l",Positive,Richland (ORG),Police Activity
+TXT-000106,web,"RT @AsperCat: French police arrest the man who tortured a cat and recorded it for Facebook: 
+The Frenchman who was captured... http://t.co/…",Negative,No entities found,Police Activity
+TXT-000107,web,"RT @AbusedChildren: Richland: Police: Convicted child rapist living in Richland | Crime, fires &amp; court news |... http://t.co/7qfXmTza0l",Positive,Richland (ORG),Police Activity
+TXT-000108,web,"RT @BaltoSpectator: I uploaded a new track, ""Lying Bastards Of Baltimore Police"", on @spreaker #baltimore #crime #fascism http://t.co/A8hyR…",Negative,No entities found,Public Disturbance
+TXT-000109,Twitter for Android,RT @blackmagicgal1: So AAP will continue to cry foul at Delhi police whenever a crime is reported rather than take responsibility like a go…,Negative,Delhi (GPE),Police Activity
+TXT-000110,Tweetbot for iOS,RT @bradybuzz: BREAKING NEWS: Judge’s ruling favors officers in Badger Guns suit: http://t.co/QcQP0vLtd4,Negative,Badger Guns (ORG),Police Activity
+TXT-000111,Win the Customer,"Driver blows over legal limit http://t.co/PvczzPY7EB
+ #crime #Police #WestPerth",Negative,No entities found,Police Activity
+TXT-000112,web,RT @bradybuzz: BREAKING NEWS: Judge’s ruling favors officers in Badger Guns suit: http://t.co/QcQP0vLtd4,Negative,Badger Guns (ORG),Police Activity
+TXT-000113,Twitter for Android,RT @flintjournal: Police news: Billboards tout anonymity of new Crime Stoppers hotline; Hamady janitor accused of sexual relatio... http://…,Negative,Hamady (ORG),Police Activity
+TXT-000114,Twitter for Android,"RT @girlweena: Just heard a police detective say ""interwishin'"" instead of ""intuition"" and am now considering a life of crime.",Negative,No entities found,Police Activity
+TXT-000115,dlvr.it,Wyoming Highway Patrol mourns loss of K-9 unit - Casper Star-Tribune Online http://t.co/w4Iagyh5sx #PoliceNews,Negative,Wyoming Highway Patrol (ORG); K-9 (ORG); Casper Star-Tribune Online PoliceNews (ORG),Police Activity

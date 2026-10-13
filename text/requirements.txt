@@ -1,0 +1,10 @@
+pandas
+numpy
+spacy
+nltk
+transformers
+torch
+scikit-learn
+jupyter
+ipykernel
+kaggle
